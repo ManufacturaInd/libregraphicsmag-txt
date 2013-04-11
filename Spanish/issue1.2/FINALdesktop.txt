@@ -1,0 +1,15 @@
+Desktop [section]
+
+Pierros Papadeas [headline]
+
+Desktop features clever hacks, workarounds and customizations used by designers and artists. We look at the way the best and brightest of our peers work.
+
+This issue, Desktop features customizations used by Pierros Papadeas, a Fedora Ambassador and Maintainer of the Fedora Design Suite Spin. 
+
+Transparent Windows
+A common drawing problem is layering info from different apps. GNOME with Desktop Effects gives you the ability to make a window transparent. It means being able to trace without having to go back and forth, saving, exporting and importing. This effect can also be achieved with other desktop environments. 
+
+Expose Windows
+It's GNOME and Desktop Effects again. Just point your mouse at the upper right corner and you get an "Expose" of all windows. It allows you to easily change between windows and get a quick view of the huge amount of awesomeness you're working on.
+
+In this instalment of Desktop, Pierros is using Fedora Linux, GNOME desktop environment with Desktop Effects, Inkscape and Alchemy.

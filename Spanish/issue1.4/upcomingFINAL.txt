@@ -1,0 +1,31 @@
+Upcoming Events
+
+Linux Fest Northwest - April 28-29, Bellingham, WA, USA - http://linuxfestnorthwest.org
+
+Libre Graphics Meeting - May 2-5, Vienna, Austria - http://libre-graphics-meeting.org/2012
+
+* SIGINT - 18-20 May, Cologne, Germany - http://sigint.ccc.de
+
+* Flossie 2012 - 25-26 May, London, United Kingdom - http://www.flossie.org/?page_id=77
+
+Drupal Business Summit - June 1, Vancouver, Canada - https://www.drupalsummit.com
+
+Linux Con Japan - June 6-8, Yokohama, Japan - https://events.linuxfoundation.org/events/linuxcon-japan
+
+* Ampersand 2012 - 15 June, Brighton, United Kingdom - http://2012.ampersandconf.com 
+
+Southeast LinuxFest - June 8-10, Charlotte, NC, USA - http://www.southeastlinuxfest.org
+
+* FISL 13 - 25-28 July, Porto Alegre, Brazil - http://softwarelivre.org/fisl12
+
+Linux Con North America - August 29-31, San Diego, CA, USA - https://events.linuxfoundation.org/events/linuxcon
+
+Ars Electronica Festival - August 30-September 3, Linz, Austria - http://www.aec.at/thebigpicture/en
+
+SVG Open & The Graphical Web - 11-14 September, Zurich, Switzerland - http://www.svgopen.org/2012
+
+* OK Festival - 17-22 September, Helsinki, Finland - http://okfestival.org
+
+Mozilla Festival 2012 - November 9-11, London, UK - https://www.mozillafestival.org
+
+HTMlles 10 - 10-18 November, Montreal - http://www.htmlles.net/2012

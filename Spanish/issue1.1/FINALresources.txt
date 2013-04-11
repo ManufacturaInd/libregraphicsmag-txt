@@ -1,0 +1,10 @@
+Resource List
+
+Blender: A powerful F/LOSS 3D animation application for GNU/Linux, Mac OS X and Microsoft Windows.
+FontForge: A F/LOSS font editor for GNU/Linux, Mac OS X and Microsoft Windows.
+Fontmatrix: A F/LOSS font management and selection tool for GNU/Linux, Mac OS X and Microsoft Windows.
+GIMP: A raster based image editor for GNU/Linux, Mac OS X and Microsoft Windows.
+Inkscape: A vector graphics editor for GNU/Linux, Mac OS X and Microsoft Windows.
+
+
+The names are headlines. The short blurbs are short blurbs. Then we throw in a screenshot or two underneath, as well as the URL.

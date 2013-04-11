@@ -1,0 +1,15 @@
+{goes with images in Notebook folder}
+
+Notebook
+
+Where: Libre Graphics Meeting in Montreal. 
+
+What: Annual meeting of users and developers of F/LOSS graphics software and work.
+
+Prettiest: Old lead and wood type at the Lovell printing plant, including lots of display faces, looking beautiful all on their own.
+
+Most Collaborative: Birds of a Feather (BoF) meetings of developers and users of software, including a great Inkscape chat, with remote participants joining via IRC. 
+
+Most Fun: Toonloop, as presented by one of its developers, Alexandre Quessy, with amazing potential for creative stop-motion animation. 
+
+Most Immersive: Sewing workshop by Susan Spencer, using Inkscape and Python to customize clothing patterns.
