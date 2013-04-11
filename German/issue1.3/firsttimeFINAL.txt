@@ -1,0 +1,18 @@
+First time
+
+Breaking into F/LOSS
+
+Morgan Fortems
+
+My associates and I have always been vigilant – without being activists or pioneers – to the alternative software tools we can use to oppose the dictates of manufacturers and habits in our fields (graphics, video, photography). Our first moves were primarily motivated by economic choices (we could not afford to buy all the necessary software) or technical problems (to meet needs that proprietary software does not cover or to solve incompatibilities). 
+
+It seems that today the practice of alternative solutions has became more accessible, as it has left the realm of developers and has risen to meet the needs of professional workflows.
+  
+So far, we have easily implemented simple F/LOSS applications or plug-ins in the daily routine of the studio without impairing our efficiency or our relationship with customers and suppliers. 
+
+For now, we don't see F/LOSS as a major threat to the status quo but, for ourselves, it is time to consider new methods. We decided to train with small internal projects and master these new methods and F/LOSS tools before switching over completely. For example, and among other things, we are currently developing the layout of our new fanzine, Mmagazine, in Scribus and we are using  Libertinage, a font licensed under the Open Font License, for the identity of a concert hall.
+
+I had some apprehensions about leaving behind a precious bit of technical know-how, built over almost a decade, but my very first steps with Scribus and my meetings with specialists convinced me. We are so far on the way of atonement that Damien, one of my associates, plans to "liberate" his Mac during a Pizza/Beer/Ubuntu party!
+
+<footer>Morgan Fortems is a freelance graphic designer. He is a member of Please Let Me Design studio and heads My.monkey, a non-profit art gallery in France.</footer>
+

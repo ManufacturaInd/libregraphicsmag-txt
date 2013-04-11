@@ -1,0 +1,27 @@
+Type Design {this is the column heading}
+
+Dave Crossland {author}
+
+Copyleft Business {title}
+
+Pull quote: "The Web Font Downloader Firefox Add-On delivers th[e] dream, making it easy to download libre web fonts."
+
+Copyleft has a scary reputation among business people because they often do not understand it.
+
+Copyright is easy - it's about what restrictions and freedoms you have to use and redistribute a work. Copyleft is a "pay it forward" feature of copyright licenses that says if you redistribute the work, you must pass it along on the same terms. You are free to take a libre work and improve it. You can take it as a part and combine it with your own parts to make a new, and hopefully better, thing. What makes copyleft powerful - and scary - is that if you choose to do this, the whole thing must be libre. You can stand on the shoulders of others but others can also stand on yours - or you can start from scratch and set your own terms. 
+
+Copyleft has been smeared as 'viral' and 'a cancer' because creators of proprietary software much prefer libre licenses without this bargain. Those licenses allow people to have their cake and eat it by exercising their freedom while denying others that freedom. Including libre parts in a proprietary whole defeats the original point of setting the work free, and copyleft is a good defense against this abuse. Copyleft is central to the most popular libre licenses for programs and creative works, in the GNU GPL and the Creative Commons Attribution-ShareAlike licenses respectively. Copyleft powers the explosive, exponential growth of share-and-share-alike culture. And, as always, fonts are special. 
+
+PostScript powered the early days of desktop publishing and it required the redistribution of complete fonts with documents. "PS" document files <em>linked</em> to font files. That was intensely annoying for proprietary font vendors because fonts were endlessly copied all without license fees being paid. Font Digital Rignts Management (DRM) schemes were cooked up over the years and found to be more trouble than they were worth. Being unable to print documents correctly is perhaps only slightly less annoying for designers than having an application crash and taking the work with it. 
+
+PDF solved this by combining fonts with documents or, ideally, the minimum parts of fonts needed for that particular document to print reliably. (Scribus has had faultless PDF export as a top priority since the beginning.) But this makes the story for copyleft fonts complicated. A copyleft font may overreach into the documents that use it, unless an exception is made to the normal terms - an additional permission to allow people to combine parts of a font with a document without affecting the license of texts, photographs, illustrations and designs. Most libre fonts today have such a copyleft license - the SIL OFL or GNU GPL with the Font Exception described in the GPL FAQ. 
+
+Web fonts return the world to linking documents to fonts. This is extremely unfortunate for the proprietary business world because people can see a font, like it, and figure out how to download and save it without a proprietary license. It is, however, extremely fortunate for those doing business with copyleft works, because copyleft distribution is a wealth creation engine for those who know how to drive it. More distribution means more money. 
+
+The business of libre fonts is open for designers who can take a libre font and combine it with their own parts to make a custom typeface design for their clients - customers who could not afford to commission totally new typefaces, but who still desire fresh typographic identities. Since all businesses will want to use their fonts on their websites, participation in free culture is guaranteed by copyleft. If you see a great typeface on a web page and it has a libre license, you can download and save it and improve it further. 
+
+The Web Font Downloader Firefox Add-On delivers this dream, making it easy to download libre web fonts. The next step, improving the font further, highlights the issue of font sources. OpenType has two flavours, one with PostScript-style cubic outlines and the other with TrueType-style quadratic outlines. The PostScript flavor is superior as a font format and looks great on computers using FreeType and on Mac OS X, but lacks the pixel-level control of TrueType needed to look good on most Microsoft Windows computers. This means almost all web fonts are distributed in a format that is a long way from "the preferred form of the work for making modifications to it." That is the definition of source code in the GNU GPL, and it works very well for programs. I hope one day it will be a tradition for fonts too. 
+
+Get the Web Font Downloader Firefox Add-On now from www.webfontdownload.org
+
+Dave Crossland believes anyone can learn to design great fonts. He is a type designer fascinated by the potential of software freedom for graphic design, and runs workshops on type design around the world. <em>understandingfonts.com</em>

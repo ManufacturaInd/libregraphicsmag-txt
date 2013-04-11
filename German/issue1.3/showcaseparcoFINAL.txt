@@ -1,0 +1,16 @@
+Showcase
+
+Digital Dump and Pickpic
+
+parcodiyellowstone
+
+"It is no longer necessary to deface paintings or to put a mustache on postcards of Mona Lisa, now art can be downloaded, modified  and uploaded again, with absolute delight." Luther Blissett, Art Hacktivism 
+
+Ddump is a digital recycling project based on sharing dumped files and providing different visual perspectives on them. It is based on a piece of software that allows users to easily share the contents of their personal computer trash cans, and encourages them to habitually share dumped files. The internet repository that collects them is specifically designed for graphic design purposes and aims to have different interfaces, in order to encourage diverse utilizations of the files.  
+
+Contribute to the dump at: http://ddump.parcodiyellowstone.it
+
+
+Pickpic is a set of self-written internet applications developed to help graphic designers who want to work in an environment based on peer-to-peer collaboration. It is not meant as a replacement of traditional graphic design software but as a cross-platform layer that can be applied on top of such tools. It is available as a web platform and Firefox extension, helping teams of designers to create common spaces for sharing ideas, works and visual references. It is not another social web platform. Entirely open source, it can be fully downloaded and installed on any server running Django. All the materials are collected anonymously. Users are only aware of who is working on the project with them but no comment, image or work can be linked to its author. This helps build the idea of a collective ownership and sets all resources free from the influence of their author.
+
+Pickpic available at http://pickpic.parcodiyellowstone.it 

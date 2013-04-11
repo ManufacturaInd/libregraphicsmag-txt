@@ -1,0 +1,27 @@
+Dispatch
+
+The finished and unfinished business of ﻿OpenLab ESEV
+Nelson Gonçalves and Maria Figueiredo
+ 
+SIDEBAR: [Based in the School of Education of the Polytechnic Institute of Viseu (ESEV), OpenLab ESEV (http://www.esev.ipv.pt/openlab) aims to establish a platform to foster and support the use of F/LOSS, Free Culture and more flexible licenses for creative and educational purposes. ESEV, located in Viseu, a city in the northern-center of Portugal, has over 1500 students and 105 teachers and offers nine undergraduate and 13 graduate programs. Programs are related to education, cultural animation, arts & multimedia, media, sports and public relations. ]
+
+OpenLab started in an environment characterized by a lack of knowledge of the existing Libre alternatives and work habits exclusively built around proprietary software. The desire to promote informed choices was the motivating challenge for the founders. Today, OpenLab activities are implemented on a voluntary basis and users include a core group of five teachers, several students and former students and other collaborators. 
+
+Since OpenLab started, we've witnessed kindergarten children playing with MyPaint and Luciole, elementary school students playing with Toonloop and Pencil, secondary school students playing with Blender and Audacity. Our own teachers and students have a place to look for support and answers. Concepts like F/LOSS and Creative Commons are now familiar to many students and teachers, even to those who don't use them. Several F/LOSS projects like Zotero, Blender, Gimp, Scribus, Inkscape, Audacity, Processing and Aptana Studio have made their way into the classroom. 
+
+In all the workshops ESEV has run, one of the earliest stands out and exemplifies our aims and how we want to work.
+
+Saturday morning, May 8, 2010, the school looks empty. Not a surprise: no classes on Saturday means no students. But is it really empty? Maybe not. Two dozen students are gathered at a classroom door. We have graduate and postgraduate students from teacher education, arts & multimedia and media. Many of them don't know each other. Most of them have brought their own laptops and some have even brought graphic tablets. They've come for the “Introduction to digital painting with Free Software” workshop.
+
+The trainer is already inside the classroom, checking to make sure the graphic tablet and the interactive whiteboard are working. Natacha Cindy, arts & multimedia student, discovered F/LOSS some months earlier. Armed with a passion for drawing, she immediately fell in love with Alchemy and MyPaint. She embraced the challenge of sharing her learning with other students without hesitation. It's her first experience as a trainer, the first of several.
+
+For the next three hours, inspired by Natacha's skill and enthusiam, the students explore Alchemy and MyPaint. For most of them, it's the first time using those programs. For some, it's even the first time using a graphic tablet. For all of them, it's the first peer-guided workshop they've attended. Natacha has prepared a short tutorial for those who want to train more later or work at their own pace. However, most of the time they try to keep up, individually or in pairs, asking questions and requesting personalized support. It's tiring, mostly for Natacha, but rewarding for everyone. 
+
+The results went far beyond the drawings produced during or after the workshop. The most important outcome was that Alchemy and MyPaint started to really exist for several students. The teacher education students took MyPaint to their kindergarten and used it in classroom activities. The students more related to artistic and creative activities installed these tools and still use them. Today, dozens of the students know about or have tried MyPaint and Alchemy. These tools found their way into the classroom and students' laptops. The best part is that this also happened with other tools, other students and other workshops.
+
+This story can't be finished without some last words about Natacha. Today, Natacha is professionally working as an illustrator and doing her masters degree. She still uses MyPaint and Alchemy on a daily basis, although the last time we talked, she was very impressed with Krita. She's even managed to bring MyPaint to her workplace (a large book and multimedia publishing company) and integrate it in her workflow.
+
+She's probably going to read these lines so it's only fair that we tell her: thank you and we're very proud to have you as an OpenLab ESEV friend and collaborator.
+
+It's true that proprietary software is still predominant and that there's still a lot of awareness-raising and capacity building to do but we're proud of what we've accomplished and learned so far. To us, using F/LOSS is a statement about the world we live in and how we choose to live in it. 
+

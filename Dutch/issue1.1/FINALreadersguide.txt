@@ -1,0 +1,12 @@
+A Reader's Guide to //Libre Graphics Magazine//
+{goes maybe on masthead page}
+
+In this magazine, you may find concepts, words, ideas and things that are new to you. Good. That means your horizons are expanding. The problem with that, of course, is that sometimes, things with steep learning curves are less fun than those without. 
+
+That's why we're trying to flatten the learning curve. If, while reading //Libre Graphics Magazine//, you encounter an unfamiliar word, project name, whatever it may be, chances are good there's an explanation. 
+
+At the back of this magazine, you'll find a glossary and resource list. The glossary aims to define words that are unique to the world of Libre Graphics. The resource list provides valuable information about tools, licenses, whatever items we may be mentioning. 
+
+Practically, this means that if, for example, you're reading an article about DejaVu (see pages {number} to {number}), you can always flip to the back of the magazine, look up DejaVu in the resource list and become quickly informed about it. This provides some instant gratification, giving you the resources you need to understand, in a moment, just what we're talking about.
+
+We hope you like our system.

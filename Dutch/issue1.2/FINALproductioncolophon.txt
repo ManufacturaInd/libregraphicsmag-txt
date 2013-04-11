@@ -1,0 +1,18 @@
+﻿Version control
+
+layout7-final_version3-PRINT-FINAL-SRSLY_THIS_IS_IT-final2.txt
+
+When working on a project, it helps to have a proper workflow set up, one which can help us do away with boring and repetitive tasks through as much automation as possible. One of the crucial parts in such a workflow is version control.
+
+The most popular proprietary design software tools haven't yet incorporated the latest improvements in version control -- in many cases it's totally absent from software suites and is usually provided by third-party commercial plug-ins. The consequence of this is that regular users are forced to adopt very crude ways of managing the versions of their work, usually with awkward numbering and notes on the filenames themselves. Things like "illustration7-final_version3-PRINT-FINAL-SRSLY_THIS_IS_IT-final2.jpg" should be familiar to more than a few designers.
+
+On the other hand, the Free/Libre and Open Source software (F/LOSS) world is very much in touch with version control and other project management strategies. These strategies quite often come from the domain of software development. Thus, the thought of using a version control system (VCS) for the production of this magazine came up early. There is a wide array of choice for this purpose. The most popular options are Subversion, Git, Darcs, Bazaar and Mercurial. It should be said that there's some heavy argument about which VCS is the best and this discussion is nearing the status of a holy war. We decided not to waste too much time weighing choices and instead run with one and see how it fared -- and Git was what we stuck with.
+
+Cliché as it might sound, version control is one of the things that once you pick up, you can't figure out how you ever managed to do without. Not only do we get a full log of every change that has been made, using version control makes collaborative work much more straightforward, giving us the ability to always know what the status of our project is and, if necessary, revert to older versions of any file without hassle.
+
+Nevertheless, version control systems require some learning and hand-holding to get comfortable with. Among all the technical jargon -- learning the meanings and effects of committing, reverting, staging, branching, merging, rebasing, pruning, annotating -- we are slowly becoming familiar with this way of working, and are definitely seeing the advantages.
+
+
+Sidenote
+
+The ever-evolving typeface for this magazine, PropCourier Sans, benefitted from some tweaks for issue 1.2. Most of the work dealt with punctuation, softening the weight of the most used punctuation glyphs. We also began working on kerning, the headache of choice for type designers. In order to preserve our neurons, we decided to kern as we go: after typesetting 1.2, we looked at printed proofs for the most glaring kerning problems (as in "F/LOSS") and fixed them. Each issue, we'll be adding more kerning pairs as we find the need for them.

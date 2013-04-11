@@ -1,0 +1,19 @@
+[Libre Graphics Meeting special]
+
+Talking about our tools
+
+Call for submissions
+
+Let's talk about tools for a moment. We, as humans, distinguish ourselves from other animals by talking about our ability to make and use tools. We make tools, we use tools, we are tools, all at different times and in different amounts. 
+
+Tools can be physical things used to manipulate equally physical things. At the same time, they can be digital things, used to shift bits. We can love them or hate them. The one thing we can't manage is to escape them. 
+
+As we define what they do, so too do they define what we do. In the shape of a paint brush, the kink of a bezier curve, the change a gaussian filter exerts over an image, they make our work what it is. We are our tools and our tools are us. So let's talk about tools, in the best way we know how, graphically.
+
+Libre Graphics Meeting, Libre Graphics magazine and Mardigrafe are co-sponsoring a juried exhibition of F/LOSS graphics work on the subject of tools. Break out your own F/LOSS graphics tools and design a poster (24"x34") detailing your perception or ideas about tools. 
+
+All submissions will be included in an online gallery, presented in conjunction with Libre Graphics meeting. In addition, a jury of designers, thinkers and doers will meet in May. They'll pick 15 posters to be printed by Mardigrafe and displayed during Libre Graphics Meeting in Montreal. The editors of Libre Graphics magazine will pick a further eight to be featured in the showcase section of an upcoming issue. 
+
+So get thinking about your tools, what they mean to you and what you mean to them. Then, get designing.
+
+More details and how to submit at libregraphicsmag.com/tools

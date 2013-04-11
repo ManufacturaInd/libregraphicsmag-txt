@@ -1,0 +1,18 @@
+[Libre Graphics Meeting special]
+
+On being a Unicorn: the case for user-involvement in Free/Libre Open Source Software
+
+As an artist or designer (or both), you use a range of tools in your everyday work. Even though it's not something you think about, you may be contributing to the growth of these tools without realising. Every time an application crashes and you hit the button, giving permission for it to report, you're contributing a little something. But, if you're interested, there's more. And there's more you can get out of it than just reliable software. 
+
+Let's assume that you think of yourself exclusively as a user of design tools. In the same way you don't offer suggestions to the company manufacturing your pencils, you don't consider letting the people making your software know what you think. 
+
+And you know what? You're not alone. Not many designers let the people behind their favourite tools know what they think. It's not common for designers and artists to make their voices heard, but it is useful. 
+
+Because, you see, it works this way: if you use F/LOSS graphics software, standards and methods in your art or design practice, chances are good you have something interesting to talk to developers about. What you have to talk to them about is the way you use their software. And they want to hear it. They want the gory details about which specific tools and commands you use, what problems you have, why you use the things you use in your workflow. 
+
+There are lots of different opportunities to have these conversations. The one we're going to suggest right now is Libre Graphics Meeting, an annual meet-up of developers and users. The one thing tying everyone together is an interest in F/LOSS graphics. We want to let you know, as a little service to you, the designer or artist using extensively or even just dabbling with F/LOSS graphics software, standards and tools, that it's coming up.
+
+We want to let you know because, as a designer or artist using F/LOSS, you're a bit of a unicorn. By which we mean that you're something kind of rare and beautiful, not often seen by F/LOSS developers, and perhaps even misunderstood. And as something a little out of the ordinary, you're interesting. You've got lots to contribute, so consider joining in with the spirit of the community a little and bringing your own expertise to the table. 
+
+[footer] The sixth annual Libre Graphics Meeting is taking place May 10-13 2011 in Montreal. More information is available at libregraphicsmeeting.org
+

@@ -1,0 +1,26 @@
+glossary and resources 1.1
+
+Audacity: A F/LOSS sound editing application for GNU/Linux, Mac OS X and Microsoft Windows.
+Bitstream Vera: A typeface released under a permissive license, allowing modification. 
+Blender: A powerful F/LOSS 3D animation application for GNU/Linux, Mac OS X and Microsoft Windows.
+command line: A text only user interface, allowing users to input commands without the intervention of cursors and graphical user interfaces.
+Constant: An arts organization based in Brussels, Belgium. The parent organization of Open Source Publishing.
+Distro/Distribution: A specific configuration or "flavour" on GNU/Linux, often designed with a particular purpose in mind.
+DRM (Digital Rights Management): Technologies (of whatever sort) which prevent users from making certain uses of the larger technologies to which the DRM is applied. 
+FontForge: A F/LOSS font editor for GNU/Linux, Mac OS X and Microsoft Windows.
+Fontmatrix: A F/LOSS font management and selection tool for GNU/Linux, Mac OS X and Microsoft Windows.
+Free: As in freedom, or often, that which is or is of Free Software.
+Free Software: A term describing software which is made available under licenses permitting users to not only run it, but to examine its code, redistribute it and modify it.
+GIMP: A raster based image editor for GNU/Linux, Mac OS X and Microsoft Windows.
+Inkscape: A vector graphics editor for GNU/Linux, Mac OS X and Microsoft Windows.
+mailing list: An email based forum through which subscribers may receive announcements, view or participate in discussion.
+Mandrake: A distribution of GNU/Linux. Now known as Mandriva.
+OSP (Open Source Publishing): A graphic design collective which is dedicated to producing high quality work using F/LOSS tools.
+PANOSE: A typeface classification system first developed in the 1980s.
+Qt: Pronounced "cute." A F/LOSS development framework which functions across platforms and provides a common set of visual elements. 
+repository: A stored collection of software packages, from which those packages may be dowloaded and installed. 
+Subversion: A F/LOSS version control system for GNU/Linux, Mac OS X and Microsoft Windows.
+Torvalds: Linus Torvalds, the originator of Linux.
+Ubuntu: A particularly popular distribution of GNU/Linux, produced by Canonical Ltd.
+version control: A means of managing changes (and allowing reversion) to a commonly held body of work, most often a software project. 
+vi: A F/LOSS text editor developed in the 1970s and still in use. Available for GNU/Linux, Mac OS X and Microsoft Windows. 

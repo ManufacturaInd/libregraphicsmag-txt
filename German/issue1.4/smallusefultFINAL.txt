@@ -1,0 +1,20 @@
+Small & useful
+
+There's an adage in the software world: programs should do one thing very well. In that spirit, we offer you a round-up of small and useful programs and resources which do one thing particularly well.
+
+Unpaper is a command line tool designed to correct issues in scanned book pages. It removes excess darkness around edges, rotates and de-skews. 
+http://unpaper.berlios.de/
+
+Not a tool, but a resource, //The Public Domain Review// is a gateway to interesting works in the public domain. Saving you from slogging through  all the public domain work available, the //Review// presents curated collections of particularly interesting work.
+http://publicdomainreview.org/
+
+PDF Chain is a convenient addition to another small and useful tool, Pdftk. PDF Chain provides a graphical interface for the command line power of Pdftk, allowing users to conveniently merge, split and make other modifications to multi-page PDF documents.
+http://pdfchain.sourceforge.net/
+
+GimpLensfun is a handy GIMP plugin using the LensFun library and database. GimpLensFun brings easy correction of lens distortion right into your raster graphics editor. 
+http://lensfun.sebastiankraft.net/
+
+Gtk Vector Screenshot taking module does what it says on the tin: it takes vector-based screenshots. No more flat, un-scalable screenshots.
+https://gitorious.org/gtk-vector-screenshot
+
+

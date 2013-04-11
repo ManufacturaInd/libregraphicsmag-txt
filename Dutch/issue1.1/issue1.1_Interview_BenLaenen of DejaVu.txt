@@ -1,0 +1,79 @@
+Interview with Ben Laenen of DejaVu
+by ginger coons
+Pull quote: "I just said 'Hey, I want letters' and decided to make something."
+
+Ben Laenen is a maintainer and developer of DejaVu, the widely used but not often mentioned interface font. 
+
+B: My first action on DejaVu was drawing Greek glyphs which was actually a huge project in retrospect. I was naive at the time. I thought "oh, let's draw a lot of glyphs quickly and it'll work out." But actually, [the DejaVu community] weren't that harsh on me so the first glyphs immediately got in. 
+
+G: For all of this, you use FontForge, right? 
+B: Yes.
+G: Your first experience with FontForge: how was it?
+B: I know what you want me to say: It's ugly! That's basically the first thing everyone thinks when they open FontForge. It's not really appealing to many people. Afterwards, we learned from George Williams [developer of FontForge] that he doesn't really care about the looks of FontForge. I think the bad looks are [meant] to scare away people who aren't really serious about it. So you have to be serious about it or you won't go on with it. 
+
+G: Had you been using DejaVu beforehand? 
+B: I can't remember about that, actually, if I used it. I think I was using Bitstream Vera at the time. And I wanted to have Greek glyphs in that style, but there weren't any. So I was Googling around, and then came upon DejaVu. I mean, at the time, the default font for most Linux distributions was Bitstream Vera, because DejaVu wasn't big yet. So, Googling around, I found DejaVu, that they were a project making new glyphs for Bitstream Vera, so I entered into it and... 
+G: So wait. Why did you want to do Greek in the first place? What did you need the Greek for?
+B: I've always loved Greek. I did Greek at school, old Greek, but I wanted to learn a little bit of new Greek. I just find it a nice alphabet. And I was trying to learn it a bit by moving the interface of my computer. Instead of English, which I'm used to, I wanted to have it all in Greek one day. Just try it out, see if it could work. 
+G: Have you managed that yet? 
+B: I actually managed to do that for a few months, then I said "Let's go back to English again."
+G: Were you using Deja Vu for your system font when you did that? 
+B: Not at the start. I had to first draw the glyphs, of course. But after a few months, then I switched my interface to Greek. 
+G: Your interface was in Greek...
+B: Using my own font.  
+
+B: Actually, drawing a font was something that goes many years before that. But nothing came from it, really. 
+G: What was that?
+B: I was just thinking about it today. Actually, a font should be quite easy. You just draw one glyph and then you can use it in the entire text, the same glyph. That's my first idea of making a font. But I wasn't really serious the first years. 
+G: So how long ago was that?
+B: I think ten years. 
+G: Ten years before you started on Deja Vu?
+B: Yeah. 
+G: So you've been thinking about it for a long time. 
+B: Yeah. It used to be at a time when you had bitmap fonts. That was pretty easy, you just click some pixels and then you have a font, pretty easy.
+G: Did you ever do one of those, or no?
+B: Not really. If you really go back in time, I was using QBasic. I think that's more than ten years. I actually made a program which drew its own glyphs and I had to, in QBasic, really make arrays of all the letters to put on the screen. 
+G: That's dedication.
+B: I even had sort of vectorised fonts by drawing the lines, but just by coordinates.
+G: Like choppy vectors. 
+B: Basically, just glyphs were drawn as polygons, not filled in but just straight lines. And that made a letter. 
+G: Fifteen years ago, or more, that's not bad. 
+B: Yeah, and a very old computer. It wasn't very fast, either.
+G: Early 90s, right?
+B: I think yeah. But I mean that's nostalgia. I think it's a recurring theme, actually. If you really go back to it. And now... When Deja Vu came in, the real fonts business really started for me. 
+
+G: What's the uptake been on Deja Vu since five years ago, when you started on it?
+B: Well, the first years were pretty intense because lots of glyphs were added at the time. We became default font in a lot of distributions [of GNU/Linux]. So the first years were pretty busy. Had a lot of contact with the maintainers from distributions, who really pushed it. So that made DejaVu the default font. The last few years, it's slowed down a bit. We are stabilising. 
+G: How long had Deja Vu been going before you started on it?
+B: I think a year or so. It started with Štěpán Roh... He's from [the Czech Republic] so he needed a few more glyphs that weren't in Bitstream Vera. So he started with that. It was pretty slow before [Denis Jacquerye and I] entered the project but I came with Greek, Denis came with a lot of glyphs needed for African languages which included the International Phonetic Alphabet, for example. [The International Phonetic Alphabet is] not really all needed, but it came with it, almost. Afterwards, Cyrillic, I think Cyrillic came into it. Later, Arabic and Armenian... We have Georgian, which was made by a former Prime Minister of Georgia. 
+G: What?! Really? 
+B: Who lives in exile in Finland. 
+G: And he made the Georgian set for DejaVu?
+B: Yeah.
+G: That's incredible.
+B: That's one of our weirdest contributors. Besarion Gugushvili. 
+
+G: If the previous system font in most distros was Bitstream Vera, or Bitstream Vera Sans...
+B: Bitstream Vera Sans was the font used in the interface.
+G: So, if it didn't have all these international glyphs, have you guys made localisation an easier thing? 
+B: This is why people from distributions were pushing to get DejaVu instead of Bitstream Vera. Because if you couldn't even use Bitstream Vera in most eastern European countries, then you have a big problem if you want to see Linux taking off over there. And there weren't really a lot of alternatives. We were the first real font that could be used on screen as an interface font which had those glyphs. So there wasn't really much choice. 
+
+G: Have any competitors to DejaVu sprung up?
+B: Not really. There were a lot of Vera derivatives which were trying to do the same. Štěpán Roh was actually quite clever because he basically ported all those glyphs from the other fonts and tried to get them in DejaVu. So we ended up with the most complete set of glyphs. And we became a little community around the font, which also helped. The other derivatives were missing the community. It was basically one person doing the work.
+
+G: Have your work habits, your toolchain, your workflow, your process, changed at all in the last five years of working on Deja Vu? 
+B: We're still using FontForge and the build scripts have changed a little, but that's not really important. I mean, it just made it a little bit easier for us. Instead of using a Python script you could just use a makefile. Doesn't really make it a lot easier. It's a little bit easier for maintenance. 
+G: So you're basically doing the same thing that you did, work-wise, five years ago, when you started? 
+B: Making the font itself... Basically, you become better at it, of course. But the tools are the same. 
+G: From your first faux-vector type in Basic up until now, you've come a very long way. 
+B: Yeah. I didn't know anything about fonts at the time. I didn't look into trying to guess what font formats there were at the time. I just said "Hey, I want letters" and decided to make something. I had a lot of time to program all day. But that doesn't work if you have to do it properly. No one will use that font. 
+
+G: So are there any secrets hiding in Deja Vu?
+B: No. Unfortunately not. There's one nice glyph which tells you the point size of the rendering. Say it's displaying the number eight and you make the font bigger, it'll display ten or fifteen. Hinting magic. It helps a lot in debugging. Everyone defines their own point size. But their point size isn't the same as our point size. So just pick that glyph and it tells us what number it is. Then we know what we have to debug.  
+
+B: Most people don't notice the fonts. The font is good if no one notices it. When I drew the Arabic glyphs, for example, suddenly everyone noticed. So we knew it wasn't really that good. 
+G: If someone wants to contribute or make an improvement, what do they do?
+B: They'd usually ask about it on the mailing list. But most people enter the project by just making a few glyphs beforehand and then just showing it in one go to us on the mailing list. A few weeks ago, someone came with ancient Italic glyphs. Italic, used 2000 years ago in Italy. 
+G: So have you incorporated Ancient Italic?
+B: Not yet. He first made his alphabet and then put a patch on the mailing list, so we have to review that patch. Then we say "Oh, this can be improved" and he'll just work on it again. 
+

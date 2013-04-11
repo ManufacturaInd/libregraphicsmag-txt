@@ -1,0 +1,32 @@
+"You need great tools to make great tools"
+An interview with Jonathan Puckey
+
+[Needs an author credit and, conditional on the credit, a change in the initials next to questions]
+
+LG: Your approach to digital design tools is rather specific, in the sense that you mostly create actual, very specific graphic tools instead of filters: user input is thus a very strong part of the outcome. How do you see the issue of control in the tools you make?
+
+JP: When I find myself doing filters, I work mainly with the programmer part of my brain. I rewrite the code, press a button, check the result, rewrite the code, press a button, check the result. When I make tools, I am able to split the process in two: first I get to design an environment to work within, then I (or others) get to push those boundaries to their limits by working within it. It becomes a collaboration once more.
+
+LG: What's your criteria for publishing a tool vs. keeping it for your own use?
+
+JP: It depends. I am happy to publish a tool when I feel that there might be other people out there who could use it in different ways than I could. So there is something missing, that needs to be filled in by the designer. This also means that the user of the tool is in the forefront, not the tool itself.
+
+LG: What defines whether you'll build a single-use tool or a re-usable one? Do you find yourself creating a base set of more general-purpose scripts, or do you start from scratch for a new project?
+
+JP: I really believe in investing time into contributing to the platforms that I use to build tools in. For graphic design tools this is Scriptographer, for web based vector graphics this is Paper.js and for backend server and automization stuff I am currently using Node.js, which has a very rich community. The code I reuse tends to be built into the libraries I work with. If something is missing in my tool belt, I am happy to contribute missing features. In the end, you need great tools to make great tools.
+
+LG: Would you agree there is a gap between the mindset of the tool creator and the tool user? How do you deal with it? Or does that distinction make no sense to you?
+
+JP: Sometimes, as a tool creator, it can be difficult to put the same amount of attention into using the tool as you put into developing it. Then it can be very enjoyable to see others working with your tool, pushing it to where it deserves to go. In the end, we are all tool creators on different meta levels. The end user of the software develops new ideas on how to apply the tool (also in combination with other tools) and therefore redefines the tool itself.
+
+LG: You've recently been involved in the development of the Paper.js project with Jürg Lehni, which brings the concepts of Scriptographer (a plugin to script Adobe Illustrator using JavaScript) to the web and the browser. How does the switch from a desktop environment into a browser canvas change your perceived boundaries of what you can build?
+
+JP: It changed more than we at first thought it would. When we did the first tests, we were only really thinking of creating generated static images. All at once we were seeing 60fps animations come out of our little framework. That was very exciting and opened up possibilities for all kinds of things we weren't thinking of in the first place. We have also plugged Paper.js into the server side using Node.js, which allows for things like video compositing and maybe in the future, PDF generating.
+
+LG: Would you say it makes possible new aesthetic directions? Have you found, or come up with, surprising and unexpected uses for Paper.js so far?
+
+JP: Currently, I am quite interested in the possibilities of developing design tools for clients. I find the idea of a client working with a design tool within a controlled environment very interesting. Balancing freedom and restriction, etc. Paper.js allows me to develop design tools for clients, without the need for them to purchase expensive and complicated professional software.
+
+LG: What are you busy with now?
+
+JP: I recently started a new graphic design studio called Moniker (http://studiomoniker.com) together with Roel Wouters and Luna Maurer. I am currently working on some meta-ball Paper.js code for a cultural website. We have also started development of a text-file based CMS, which we aim to use within our studio for small portfolio websites for clients. We just received funding to work on a music video which uses some interesting backend video compositing technology. What else... Oh yes, we are currently looking for some amazing programmer/designer interns who would like to collaborate with us on these things.

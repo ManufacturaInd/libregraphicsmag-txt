@@ -1,0 +1,12 @@
+new releases
+
+Pinpoint 0.1.2 - A tool for simply creating beautiful presentations. - http://live.gnome.org/Pinpoint
+Open Font Library and Open Clip Art Library - Relaunched, with lots of improved functionality. -  http://www.openfontlibrary.org/ http://www.openclipart.org/
+Mediagoblin - A newly-announced, in-progress decentralised media hosting platform. Alpha release currently slated for October 2011. - http://mediagoblin.org
+Vips 7.24 - A library and interface for quickly and efficiently manipulating large images. - http://www.vips.ecs.soton.ac.uk
+LightTwist lt-align - The debut of convenient and handy tool for turning multiple projectors into one giant projector, an accessible addition to the larger LightTwist project. - http://vision3d.iro.umontreal.ca/en/blog/2011/05/11/easy-multi-projector-desktop
+Toonloop 2.0.0 - Fun and powerful stop motion animation software. Excellent for performance. http://toonloop.com
+Linux Mint 11 - The latest from the second most popular distribution of GNU/Linux. Version 11 makes software management and installation of extras easier than ever. - http://www.linuxmint.com/
+Fedora 15 - Version 15 makes Fedora (our favourite) the first distribution of GNU/Linux to include GNOME 3 as its default desktop environment. - http://fedoraproject.org/
+GNOME 3 - An attractive, new take on that old favourite: the GNOME desktop environment. - http://gnome3.org
+

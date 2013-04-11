@@ -1,0 +1,108 @@
+Glossary 1.2
+
+Alchemy:
+A F/LOSS canvas drawing program, meant to encourage play and exploration. Available for GNU/Linux, Mac OS X and Windows.
+
+Audacity:
+A F/LOSS sound editing application for GNU/Linux, Mac OS X and Microsoft Windows.
+
+Blender:
+A powerful 3D animation application for GNU/Linux, Mac OS X and Microsoft Windows.
+
+command line:
+A text-based interface for controlling a computer. 
+
+desktop environment:
+A collection of tools and interface elements which style the visual and functional aspects of an operating system in a certain way. 
+
+Digital Rights Management (DRM):
+Technologies (of whatever sort) which prevent users from making certain uses of the larger technologies to which the DRM is applied.
+
+distro/distribution:
+A specific configuration of GNU/Linux, often designed with a particular purpose in mind.
+
+Fedora:
+A popular distribution of GNU/Linux, produced by Red Hat, Inc.
+
+flavour:
+Similar in meaning to distro/distribution, but more general. Simply means a specific version (normally of GNU/Linux).
+
+Free:
+As in freedom, or often, that which is or is of Free Software.
+
+Free Culture:
+A general term for activities and artistic works which fall under a similar ideological banner to the Free Software movement.
+
+freedesktop.org:
+A F/LOSS project which focuses on creating interoperable tools for GNU/Linux and other Unix-type systems. 
+
+
+Free/Libre Open Source Software (F/LOSS):
+Software which has a viewable, modifiable source and a permissive license (such as the GNU GPL). It can be modified and redistributed.
+
+GIMP:
+A raster based image editor for GNU/Linux, Mac OS X and Microsoft Windows.
+
+Git:
+A popular version control system, originally created to manage development of the Linux kernel.
+
+GNOME:
+A popular desktop environment for GNU/Linux.
+
+
+GNU General Public License (GPL):
+A license originally intended for use with software, but now used for other applications. Made famous the principle of Copyleft, requiring those using GPL licensed work to license derivatives similarly.
+
+implement:
+The act of integrating a feature or standard into a piece of software, rendering that software able to (for example) perform a task or use a specific file format.
+
+Internet Relay Chat (IRC):
+A popular form of internet-based real-time chat. Has a long history of use and is still popular among groups of developers and users. 
+
+
+KDE:
+A community project which produces various F/LOSS applications, best known as a popular desktop environment for GNU/Linux.
+
+
+Libre:
+A less ambiguous adaptation of the word Free. Implies liberty of use, modification and distribution.
+
+mailing list:
+An email-based forum through which subscribers may receive announcements, view or participate in discussion.
+
+
+open standards:
+A standard which is available for viewing and implementation by any party, often at no monetary cost.
+
+Oxygen:
+A project meant to develop a coherent and attractive visual identity for KDE.
+
+
+proprietary:
+A piece of software or other work which does not make available its source, which is not allowed or intended to be modified or redistributed without permission.
+
+Scalable Vector Graphics (SVG):
+An open standard for vector graphics, developed by the W3C.
+
+SIL Open Font License (OFL):
+A license intended for use with fonts and font related software. Dictates terms which allow modification and redistribution of fonts.
+
+source code:
+The human readable code on which software is based. Software distributed with its source code can be modified far more easily than software distributed without.
+
+terminal:
+A program which allows users to perform actions on the command line.
+
+Ubuntu:
+A particularly popular distribution of GNU/Linux, produced by Canonical Ltd.
+
+version control:
+Activities which have the effect or intent of distinguishing different versions of a work or body of work from one another.
+
+Version Control System (VCS):
+An application/collection of tools designed to facilitate version control. Tracks changes to files and allows a group of collaborators to share their changes as they are made.
+
+
+W3C:
+The organization responsible for setting web standards, such as HTML5 and SVG.
+

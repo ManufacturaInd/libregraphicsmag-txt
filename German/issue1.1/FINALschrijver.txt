@@ -1,0 +1,37 @@
+This is the first day of my life
+by Eric Schrijver
+pull quote: maybe "Anything awesome has a gestation period. But we just happen to love believing in spontaneous creation."
+or "I have never heard much about just how freaking scary it can be to share. Sharing means giving up control."
+
+The Dutch computer scientist Edgar Dijkstra believed in first times. He thought it a contemporary charade to give programs version numbers. Since it's possible for a program to be correct, better to get them right the first time around. I don’t agree with Edgar Dijkstra. I believe I will achieve my first proper column after five or six tries. 
+
+There is a second first time, when you finally manage to rise above the preconceptions and ideas you started your project with. Then your project can start to work for you.
+
+The rumour that Bill Joy wrote the vi editor in one night is persistent, even though he denies it himself. Anything awesome has a gestation period. But we just happen to love believing in spontaneous creation.
+
+As to Libre Graphics, it is at the nexus of many exciting developments. Libre Graphics lies at the intersection of art and technology, science and the humanities. And I am quite sure we will see a number of wonderful projects take flight.
+
+Applying F/LOSS principles to art and design might help us improve visual literacy, just as F/LOSS improves computer literacy. Applying F/LOSS principles to art and design might help us better understand the knowledge present in the creative process.
+
+Not just that, I think it might help us understand what it means to share. Getting artists to share will be difficult, initially. Scientists have built an economy where giving things away will increase their reputation, as well as the chances of getting and keeping jobs. Artists, on the other hand, traditionally try to earn money by selling their work. 
+
+Even if the production methods of art have changed radically, the art market is still built on scarcity. Galleries will produce a limited number of copies of a video or photograph even if this medium potentially allows for unlimited copying and redistribution. 
+
+With all the talk of sharing that comes from the world of F/LOSS, I have never heard much about just how freaking scary it can be to share. Sharing means giving up control. Letting go of control can be very, very difficult.
+
+Of course, it is potentially beautiful, too. Recognizing that my understanding is limited, allowing someone else to find something in my work that I had never seen before can be beautiful and fulfilling. Yet, having someone reinterpret my artwork is not the same as someone coming up with a clever new use for a sorting algorithm. My art deals with people and emotions. That is why there is the possibility for such a reinterpretation to hurt me.
+
+(There’s always the option to keep something for myself. Assuming current copyright law, good health and some cooperation from my progeny, it will subsequently take about 130 years before it lapses into the public domain.)
+
+Anyway.
+
+Whenever something wonderful takes off, it feels like a beginning. But I don’t want to take the idea of beginning too literally. It’s more like the experience opens up new possibilities. At the same time, it seems to make up for the hardship experienced up to this point.
+
+Madonna also treats the first time as a metaphor. She references the prototypical first time in "Like a Virgin." Yet it’s not about the first time, it’s about when it’s //like// the first time. Open source developers work like Madonna. Projects are well underway before they reach 1.00. This is not the first release, this is the first release that works like the developer wanted it to initially. What the first attempt should have been like but necessarily couldn’t.
+
+In fact, many projects never even reach 1.00. Most things never happen. When David Bowie shook the scene with his Ziggy Stardust character, he'd already had a trial run with a band called Arnold Corns, for which he styled a fashion designer to be the lead singer. 
+
+Release early release often is a Torvalds maxim. In F/LOSS, next to the projects that take flight, we get to see all the other projects as well, the entire primordial soup. We don’t just get Ziggy Stardust, we get Arnold Corns too.
+
+It’s a mess, frankly. This might not work for the Dijkstras of this world. F/LOSS encourages a mindset of bringing together disparate sources to make something new. This is why artists could potentially feel at home. There’s never a clean slate when you make a work of art or design. We are informed by our personal history, we are informed by all the other works we know. Bowie, on Ziggy, said “it just seemed perfectly natural for me at the time to put together all these odds and ends of art and culture that I really adore.” Never mind that everything always comes from somewhere, when it starts to work together, it feels like something new. It feels like you’ve just begun.
+

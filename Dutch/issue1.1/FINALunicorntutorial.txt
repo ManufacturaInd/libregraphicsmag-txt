@@ -1,0 +1,13 @@
+First Time 
+The unicorn tutorial
+by ginger coons
+
+On vectors, nodes and the power of simple examples
+
+I remember my first introduction to nodes and vector-based illustration. When I was about seven years old, my father, who was a high school tech teacher at the time, sat me down in front of Corel Draw 3. Up until that day, I had seen the program as a repository of clip art, not knowing what I could actually do with it. He loaded a clip art horse. Everything changed when he showed me the node selection tool. The previously clean line drawing suddenly had a mass of dots all along its outline. He explained that these were nodes, the points defining the shape of the horse. 
+
+And then the magical bit: he had me select the node at the apex of the horse's ear. When I clicked and dragged that node, the horse changed. The ear elongated, following my mouse. He instructed me to move the node a little distance and then drop it. The horse was no longer a horse. Elongating that ear had turned it into a unicorn.
+
+Since then, I've learned more about how nodes really work and what can be done with them. But that lesson still sticks in my head. It was an incredibly powerful introduction. It started a (so far) life-long love of vectors. A love of all their extensibility, elegance and possibility. 
+
+So I present to you a horse. More accurately, it's just an outline of a horse, no shading, nothing fancy. It's a horse with two pointy ears, one of which has a little node at the apex. You can find the SVG file on our website. If you want, you can download it, open it up with Inkscape or whatever vector manipulation program you use, and turn it into a unicorn. To me, it's the most powerful, understandable first introduction to nodes and their possibilities.

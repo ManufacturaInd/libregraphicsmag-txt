@@ -1,0 +1,8 @@
+Best of SVG: Maps
+
+
+Even blank maps can tell a history. 
+Just browse the colletion of Blank World Maps offered by Wikimedia Commons and OpenStreetMap, set your eyes on the ever changing boundaries of countries and nations. 
+Being SVG, they are doubly useful: one, you get resolution-independent maps, allowing you to scale them without mercy. Two, SVG makes them perfect for including in a web application or visualization, creating experimental programs around geographic data, and for clever maps that embed additional cartographic data in the file itself.
+It's a journey through history in SVG shapes.
+

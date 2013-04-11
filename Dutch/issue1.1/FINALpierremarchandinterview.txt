@@ -1,0 +1,39 @@
+The Interview
+Pierre Marchand talks Fontmatrix, responsiveness and user engagement
+by Dave Crossland
+Pull Quote: "[I]f you... us[e] Microsoft APIs to write, you're still a user. You don't own the machine. The machines own you."
+
+Pierre Marchand is the creator of Fontmatrix, the leading F/LOSS font management program.  
+
+D: You were working as a graphic designer [when you started working on Fontmatrix].
+P: I pretended to be a graphic designer. But I wasn't really a graphic designer. I started because I had this little, little, little agency and no clients. So I started to play a bit with programming. There was this program to compose text by hand. And there was, in this program, a font chooser. You could choose a font file and it was not enough for me. So I was looking for a font manager, didn't find one. Because I was working a lot with FreeType it was quite trivial for me to just have something to display fonts. All in all, it was really for my own needs. 
+
+What happened next? I posted on the Scribus mailing list. I wrote a little font viewer manager. And what happened next? Still no clients. Still time to program. At this point, nobody but regular Scribus users were following the list and you start to do something and Wow! people are interested in the project and come with some user feedback. And there's a lot of raising your self esteem. It works well for that. And so I did continue, because in my regular work, it was completely the reverse. No clients at all and no client, no client. So I had just enough money to live and with coding, you need nothing more than a computer. Coming from being nobody to being someone. So it was very interesting for me... And when you're doing something interesting, people come to you, they listen to you and you can discuss things you have no occasion to do face to face. So it was the first push to work on Fontmatrix. My own needs and after that, the good reception by people. 
+
+D: There were people contributing in terms of ideas...
+P: A lot. From being very reactive. If someone tells you that he would like something like a new feature and one hour later, there's the feature in the Subversion repository, they're happy. And they come back again and again and say "I would like that and that..." It's very useful for the developer because you can't have all the ideas. You're just alone and you have your own ideas, but that's just a subset of what's possible. So it's really interesting to have a lot of user input. And because you are very reactive and you're ready to just stop doing your stuff and work on what people want, they are happy and they come back again. So it's a...
+D: Cycle.
+
+D: You were working on it, kind of in your spare time, while you were doing freelance graphic design work.
+P: It was not exactly my spare time. It was my main time. 
+D: Because you were filling out the extra hours in the day that weren't being filled by clients. And you were building the tools that you needed for yourself as a designer. 
+P: It wasn't even exactly that. When I finished school, after that, I spent ten years working on my art work, etc. And I stopped because of things, life. But I was very frustrated about stopping. And when I started working on Free Software, writing Free Software, for me, it was a means to come back. To come back to something creative. The more I work on Free Software, the more I write code, the more I think that there is really creative work there. 
+D: In programming?
+P: Yeah. Not like code as art. I don't like that. It's not exactly that. But the practice of writing code can give you something like the practice of doing art work. But the result is not the same. You have to go a bit further to make it a real art work. And it's what I can do with OSP nowadays. And Constant. I take my handcraft of writing code and I turn it into something artistic. But it's another work. 
+
+You need to start somewhere. When you start by writing Free Software, you are writing the place to do this work. Free Software gives you access to the machine, the culture, the coding. You can't do real art work with computers without going Free Software. Because if you try to do that by using Microsoft APIs to write, you're still a user. You don't own the machine. The machines own you. It's the same for Fontmatrix. Even if now, I'm more productive at working on Fontmatrix, really focused on user integration and interactions, still, the way I do it is looking for new ideas and finding something like a compromise between my way of coding, which is a bit weird sometimes, and the way the users can be part of the project. To form a community. Because I need this community to continue to work...
+D: To motivate you.
+P: Yeah. And to make it meaningful. I mean, if there's nobody to use your software, there's no point in publishing it. 
+
+D: How do you think the Free Software community, the Free Software programming community, can engage people who work professionally on those kinds of jobs? There are user interface designers, interaction designers, who do that kind of work professionally.
+P: Hmm. The huge work was really to change my mind. About the software I was writing. To try to think as a user. In the state it was, I heard users complaining "I can't do this, I can't do that with the software." And I was just answering, each time, "Yes, you can do that. You have to go to this menu and this sub-menu and click there and it's possible. It's possible this way or this way." To make it usable by these people, you have to just change that into when you hear something like that, to think "Okay, so the menu is not in the right place. They can't find it. So I will change my software to make it accessible for users." So I started like that.  
+ 
+D: Because it's a Qt application, it's cross-platform, right? So it's going to be useful for users on Windows and Mac OS. 
+P: Useful not as a font manager. They have font managers. But it will be useful to make them Free. 
+D: What do you mean?
+P: I mean that they have enough font managers on Mac OS X and Windows platforms. They don't need FontMatrix as badly as on Linux, where there's nothing at all. 
+
+But the value of FontMatrix as a font manager comes from its Free Software touch. I mean that if you want to run Free Software on your platform, whatever it is, you need Free Software. So if you're on Mac and you have a feeling it will be great because you've tried Inkscape and it was cool and you've tried FontForge and it was cool and you want to continue to use Free Software, maybe you need a font manager. So you're seeking a Free font manager and there's nothing. But hopefully, there will be FontMatrix in a state of development ready for daily use. 
+
+But as a font manager, what it will bring for these users is really the freedom and the community, the direct access to developers. But as a font manager itself, it won't be more than Suitcase or something. In the first case. After that, as people can come with new ideas, we can imagine that it will bring something really new, because it's really fitted to their needs. But in the first place, it'll just be a font manager, as a font manager for all those users. And if they're used to using font managers like Linotype Font Explorer, etc., they won't be amazed by it. It will be just another font manager. And the real value will come from the freedom of the software. 
+
