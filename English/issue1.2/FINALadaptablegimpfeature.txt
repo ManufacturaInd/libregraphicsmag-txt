@@ -1,0 +1,41 @@
+AdaptableGIMP: user interfaces for users
+
+by ginger coons
+
+Pull quotes: 1) "It's like an infinite set of overlapping Microsoft ribbons. They try to do the same thing, they're trying to group functionality. But we're saying that it doesn't need to be the six that are defined by the people making the application, there can be a million. You can't only have the paintbrush in one. The paintbrush can be in 500,000 of them." - Filip Krynicki
+
+2) "what we're grafting onto the existing interface paradigm, is this task-centric view of computing where you say 'This is what I want to do' and the interface modifies itself to accomodate that particular task." - Michael Terry
+
+In 2007, Michael Terry and other members of the University of Waterloo HCI lab set out to learn just what GIMP users actually do. To achieve that lofty goal, they created something called ingimp, a variation of GIMP which tracked feature use. Four years later, they have an answer, in a way. 
+
+The answer, broadly, is what you might expect. It turns out that different users of GIMP do different things. Ben Lafreniere, a doctoral candidate in Terry's HCI lab, has combed through the data and come up with a more nuanced answer. Usage tends to be focused on small sets of tools, using only a tiny percentage of the actual capabilities of the program. The members of the lab refer to these groups as "corners." 
+
+According to Lafreniere, "not only do people use just a small corner of the functionality in the system, but they tend to use fairly distinct corners." Which means that there's no one-size-fits-all answer. With different users making use of small, distinct sets of tools, no one easy interface tweak will suit everyone and make GIMP universally more usable. 
+
+But never fear. There's another, far more exciting option. That option comes in the form of AdaptableGIMP. The premise of AdaptableGIMP, another project from the HCI lab, is that not only should users be able to customise the interface of their software, they should be able to share those customisations with others. Or, as Lafreniere puts it, crowdsourcing "the creation of customisations to the entire user community." 
+
+To do this, AdaptableGIMP relies on a modified version of MediaWiki. Task sets -- customised collections of GIMP commands tailored to a specific use -- are stored in a central repository, tied to wiki pages which are capable of both describing and controlling the mix of features in each set. 
+
+The beauty of this, according to Lefreniere, is that "when anybody creates a customisation to the interface, it's immediately there, available to all the users of the application." This provides all users with a collection of available task sets, just waiting to be used. Says Lafreniere, the intention is that a user "can sit down at the interface, type a few keywords describing what they want, searching things made by the community, select one, and then immediately have it."
+
+And who will build those task sets? According to Terry, there's already tangible evidence that some users are more than willing to create documentation, tutorials and other resources. "What we're doing," he says, "is bringing that practice more directly into the interface." 
+
+This community approach to building and documenting task sets has an added benefit: it makes the efforts of one person useful and valuable to all other users of the software. This means that different types of users can work to their own strengths and preferences, while benefiting from the preferences of others. 
+
+"People are hesitant to stop the current task that they're working on to create a customisation" says Lafreniere. To Filip Krynicki, one of the HCI Lab's co-op students, this is one of the major benefits of the AdaptableGIMP approach. According to Krynicki, "in most interfaces where someone can make a customisation, that's where it stops." But in the case of AdaptableGIMP, if even one percent of users actually create customisations, all users benefit.
+
+Users creating customisations may see some added incentive, too. Terry suggests that, given AdaptableGIMP's ability to collect usage data, task sets could well come along with information about how many users they've been installed by, how active their development is and even how recently they've been used. To Terry, this gives creators of task sets "some sense of feedback of the utility of the task set."  
+
+[A new approach to interface design]
+
+Members of the HCI Lab see current interface design as something hierarchical and designed more to contain functionality than to help users accomplish their tasks. According to Terry, one of the goals of AdaptableGIMP is to help users define their own workflows. This approach contrasts strongly with hierarchical interfaces, which he says are "designed in reaction to the large number of commands that are available and not designed around how people actually sit down and want to use the tool for a particular task." 
+
+This does not mean changing the entire functioning of the program or reinventing the wheel. To Terry, it's a case of "grafting onto the existing interface paradigm," adding in a "task-centric view of computing where you say 'This is what I want to do' and the interface modifies itself to accomodate that particular task."
+
+Krynicki puts it into contrast with existing tactics: "It's like an infinite set of overlapping Microsoft ribbons. They try to do the same thing, they're trying to group functionality. But we're saying that it doesn't need to be the six that are defined by the people making the application, there can be a million. You can't only have the paintbrush in one. The paintbrush can be in 500,000 of them."
+
+The future of AdaptableGIMP looks, at very least, exciting. Lafreniere suggests the possibilities presented by a built-in recommendation system, offering complementary task sets based on use patterns or even suggesting task sets which frame commands the user already knows, but to different ends. As Lafreniere puts it, "you know all these commands, you could do this task."
+
+Of course, it's not just GIMP standing to benefit from this work. Terry hopes to offer a core set of AdaptableGIMP components which would help developers of other software in implementing crowdsourced customisation themselves. Says Terry, "we hope that we can provide a tool set for them that they can plug in and start to use in their own application."
+
+[footer] AdaptableGIMP is available now, for users who don't mind compiling from source. Get it at http://adaptablegimp.org

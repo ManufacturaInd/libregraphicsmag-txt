@@ -1,0 +1,45 @@
+Schrijver
+
+The voice of the shell—in collaboration with my computer
+
+Eric Schrijver
+
+I tell my students that the command line is the way to go. I am not, however, the kind of person who thinks the command-line is somehow a more true experience—it’s another modality, another way of accessing and manipulating the data on your machine.
+
+The query-response format is wonderful. I amaze students with the whoami command—the computer knows the answer! This gives the impression, to some, that it is possible, through the console, to have a conversation with the computer.
+
+I do often feel like I am talking to the computer. But when the computer talks back to me, from time to time the voice of the computer gives way to the voice of the programmer; or at least, to my image of this programmer. This is the output of a 7zip command:
+
+7-Zip  4.44 beta  Copyright © 1999-2007 Igor Pavlov  2007-01-20
+p7zip Version 4.44 (locale=nl_NL.UTF-8,Utf16=on,HugeFiles=on,2 CPUs)
+
+Processing archive: Fedora 9.7z
+
+Extracting  Fedora 9/Fedora 9.vmkd
+Extracting  Fedora 9/Fedora 9.nvram
+Extracting  Fedora 9/users.txt
+Extracting  Fedora 9/Fedora 9.vmx.lck/M00232.lck
+Extracting  Fedora 9/Fedora 9.vmx
+Extracting  Fedora 9/Fedora 9.vmxf
+Extracting  Fedora 9/Fedora 9.vmsd
+Extracting  Fedora 9/Fedora 9.vmx.lck
+Extracting  Fedora 9
+
+Everything is Ok
+
+I am moved by the program telling me that everything is okay. I am not sure if Igor Pavlov meant to give me consolation from the console—after all, the sentence is logically equivalent to "there are no errors." It could be a simple observation.
+
+In any case, it’s endearing: I imagine the programmer as a pretty, dark-haired boy. He is shy and his eyes, hiding already behind large glasses, avoid your gaze. Igor is not so handy with words, but he means well towards the world. 
+
+The encounter is not always so nice. The reason I install Fedora is because I have to compile some Perl modules and put them on my shared hosting service to make Movable Type work. The interactive mode of CPAN has the most condescending error messages yet.
+
+But nothing beats Telnet. When typing in "RCPT:" instead of the required "RCPT TO:," I get:
+
+Error: I can break rules, too. Goodbye.
+
+And my connection is closed. I feel like I could actually strangle the programmer responsible for this behaviour. The rude message is a catalyst for my negative passions. I imagine the programmer delighting in his sense of control over me and I want to smash the keyboard on his head.
+
+I project in my mind this monster: crouched behind his computer, staring intently at the screen, a system administrator, overweight and with unkempt hair, staring maniacally at the screen, laughing out loud about this error message that is going to upset the people using his code. But I have been awake too long. I made him in my own image. Look at me: I’m also alone, staring maniacally at the screen, making up these stories about computer programmers.
+
+With minds so volatile and temperaments so inflammable, it’s important we stay nice to each other. If the only way we talk to each other is through error messages, let these error messages be exceptionally kind.
+

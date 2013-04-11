@@ -1,0 +1,9 @@
+new releases
+
+Sozi (http://sozi.baierouge.fr/wiki/doku.php): An SVG based presentation program, allowing users to create on a movable canvas. Say goodbye to slides.
+Blender 2.55 beta (http://www.blender.org/development/release-logs/blender-254-beta/): A major new release of Blender. Road tested on production of //Sintel//.
+Inkscape 0.48 Essentials for Web Designers (book) (https://www.packtpub.com/inkscape-0-48-essentials-for-web-designers/book): An overview of Inkscape 0.48, geared specifically towards the needs of web designers. 
+Sintel (http://www.sintel.org/): Another year, another Blender Foundation project. //Sintel// is a short film showing Blender at its best and most beautiful.
+SparkleShare 0.2 Beta 1 (http://www.bomahy.nl/hylke/blog/sparkleshare-02-beta-1-for-linux/): Makes version control painless. Allows for folder based workflow, but with the added power of full-on version control.
+Hugin 2010.2.0 (http://hugin.sourceforge.net/releases/2010.2.0/en.shtml): Hugin, our favourite panorma stitching program, has a pack of new features, including masking and a mosaic mode.
+

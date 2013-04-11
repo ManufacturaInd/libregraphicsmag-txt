@@ -1,0 +1,31 @@
+Feature
+
+SparkleShare: pleasantly invisible version control
+
+ginger coons
+
+<SIDEBAR1> What the heck is version control?
+Version control, while normally used by software developers who want to track changes to code, can be pretty useful for anyone doing collaborative work. We'll spare you the techincal explanations and just give you the functional basics of how it works. When using version control, a group of people are all working on the same set of files. Each collaborator has a local set of the files, in addition to a centralized, online repository of those files, which is shared by everyone. Collaborators can upload their modified versions of the files to the online repository, and download the changes made by others. To do that, a few things are necessary. You need to choose and install a version control system (we like Git, but there are lots of other options). You need to set up your repository (Gitorious is our repository host of choice). And, if you don't want to do everything in the command line, you need to get a client for your version control system. That's where programs like SparkleShare come in. They push and pull changes, making your local files match the ones in the shared repository and vice versa. 
+</SIDEBAR1>
+
+<SIDEBAR2> Getting started with SparkleShare
+Download it from sparkleshare.org. It's available for Linux and Mac.
+Install it. On Mac, it's as easy as pointing and clicking. If you're running Fedora Linux, follow the instructions provided at sparkleshare.org/linux-downloads/. On any other version of Linux, you'll have to install from source. But don't worry! The instructions provided in the README file are really good.
+Get yourself a hosted Git repository. sparkleshare.org/help/ covers how to get set up with both Gitorious and Github, two popular Git repository hosting services. 
+Set up SparkleShare and sync it to your repository. SparkleShare will walk you through the process when you run it for the first time.
+Go wild!
+</SIDEBAR2>
+
+
+
+Since October, I've been using SparkleShare as part of my daily workflow, almost without noticing. Using it, I've integrated sharing, collaboration and publication into the very fabric of my work. 
+
+It started when one of our columnists suggested that we use Git to tidy up our collaboration. With editors on different continents, and with a big pile of content going into each issue, it only made sense to come up with a clever way to share things. So we set ourselves up with a repository hosted on Gitorious. Now, to make Git work, you need more than just a repository. You also need a client of some kind to sync your local version up with the central repository. I've been told that the easiest method for doing this syncing is manually, in the command line. But, well, I'm lazy. I'm happier when I have a nice, tidy program to do the work for me. That's where SparkleShare shines.
+
+SparkleShare is a truly elegant front-end for Git. It makes syncing to and from your Git repository painless and basically invisible. It's painless because, unlike other Git clients, it syncs automatically. This automatic syncing is great, because it means that, as long as your computer is connected to the internet and SparkleShare is running, you'll never have to worry about your repository not being up to date. If one of your collaborators has committed a change to your shared repository, SparkleShare will grab it and update your files. On the flip side, if you make a change locally to one of the files in your SparkleShare directory, it gets uploaded to your shared repository. 
+
+You may find that feature a little familiar. For those who use Dropbox, it's a habit: save your file to the appropriate directory and poof, it's there for everyone you're sharing with. While that style of interaction may be pretty standard, it's the added power of Git that makes SparkleShare a really special way of sharing. 
+
+Because Git is a version control system, a lot of the scary parts of collaboration are eliminated. We've all been there: you're working with someone on a project, you take a look at their latest revision to a file, it's a disaster. Good thing you kept a backup, right? With the automatic version control provided by Git + SparkleShare, you don't need to keep a duplicate. Your Git repository doesn't just contain all the current versions of your files, it actually hangs onto past versions, too. And it takes note of the differences. If you're working with text or code, being able to view line-by-line differences is a pretty big deal and makes life much easier. If you're working with images, it's still great, because you can download and compare different versions, or revert if you don't like the latest changes. 
+
+For the last nine months, I've been using SparkleShare, watching it grow, stabilise and get better. And it sure has. Now, it's your turn. If you've never used version control before, you'll be very pleasantly surprised at what it can do for you. After a couple weeks, there'll be no going back. You won't be able to remember how you coped with duplicates, ad hoc versioning and all the other little workarounds people use to get the job done. And, using SparkleShare, you'll find that it's easier than you ever imagined. It's handy, it's automatic and yes, it's version control, just as close to invisible as possible.

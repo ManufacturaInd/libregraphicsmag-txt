@@ -1,0 +1,28 @@
+Column
+
+Will these hands never be dirty?
+Eric Schrijver
+
+Graphic design is a nostalgic field. Even in the art schools, the students want to make books and posters. Designing for the web has little prestige. I could say that I want students to design for the screen, and to actively engage with their digital tools, but I first need to know what it is that makes it so attractive to design for the printing press.
+
+Books and posters nowadays start their lives on a computer in proprietary software. Many of my colleagues see the software as a neutral tool, subservient to their creativity. Therefore, the software can be used as-is. For me, software is a piece of culture, an embodiment of a certain way of thinking. The software partakes in the creation. A truly rich visual culture can only come about if designers manipulate, appropriate and subvert the software technology they use. 
+
+Hacking analogue technology is a physical affair. Cracking open software requires a different sort of interaction, with programming interfaces and computer files. It requires a new set of skills that takes time and enthusiasm to attain. It is this enthusiasm that is often lacking. In fact, my students often seem scared of digital technology.
+
+So what are today's nascent designers scared of? The comparison with their attitude to printing technology shows it is not necessarily technology in general that designers are frightened of, nor is it geekiness. Designers actually take pride in the geeky details of their craft when they are related to the printing process, knowing about things like spot colors, paper stocks and binding methods.
+
+Is it a matter of differing cultures? Even though design is applied mathematics, most design majors study the humanities in high school. Code seems to belong to this other world, the world of the kids who choose mathematics. The other geeks. 
+
+If the divide is social, then a gentle introduction to the other culture, the culture of programming, itself embedded in the culture of science and mathematics, should form part of a contemporary design curriculum.
+
+Or another strategy, can we force the students to get their hands dirty?  With code? No more mockups. That's an efficient way to introduce the nature of the digital. There is always the question of whether designers should learn to code. I think they should.
+
+As a student, I came across a printing press that worked with movable type. I spent a day setting a simple poem. It's dirty, precise, frustrating work. At the end of the day I printed my poem, and only after I had cleaned the press, I spotted the spelling error.
+
+As tedious as the process had been, this day taught me so much about the nature of printing technology. My understanding of my profession really deepened. I know why uppercase is called uppercase (uppercase letters are stored above the lowercase ones); why leading, the space between lines, is called leading (it is strips of lead). I have an understanding of how all of the classical book layout conventions are related to the process of setting a block of movable type. 
+
+Even though I never set anything in movable type again, I understand printing technology to a further extent. The same is true for code. Going through the tedious process of writing a computer program will change your understanding of the medium you work with all the time. Your dirty hands will forever influence any interaction you have with programmers.
+
+I say "getting your hands dirty" and it is obvious that it is a metaphor. Or is it? At any rate, anything I do, I do it with my body. My head is but a part of my body (I'm glad that HTML5 acknowledges this). And it is not necessarily so that my interaction with a computer is more detached than that with another device. To see what is going on, we need to move beyond tight distinctions between analogue and digital, between concrete and abstract. Like, when you draw, you think and you do at the same time [sic-ed].
+
+I don't know how physical programming actually is. What kind of software interaction is it, that is the equivalent of prying something open, or to turning it on its head? I do know that all my descriptions of what I want include this physical dimension. What I want is a relation to software that is more daring, and ultimately more intimate.

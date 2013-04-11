@@ -1,0 +1,9 @@
+<stdin>
+Alexandre Leray, Stéphanie Vilayphiou
+
+There seems to a be a tendency nowadays for collaboration and cross-disciplinarity, and graphic designers are not at rest. Many designers — including ourselves — are increasivelly working together with artists, thinkers or engineers, blurring the separation between the disciplines. Why? Could it be a way to escape from the division of labour? A way to escape from the thinking of graphic design as a service industry and to start thinking of design as an embedded process? Our intuition is that graphic designers don't want to be the last element of the production line anymore.
+
+Coming from a classical visual design education we became more and more interested in digital culture and networked media. Now, we mix a visual approach with programming to create designs for print and non-print outputs. We proudly claim the two hats of designer and programmer because for us programming is also design. Moreover, we think programs are cultural items, at least as much as they are functional. F/LOSS carries this thought, but using it doesn't necessarily imply free culture. This is why we focus our personal researches on collective platforms based on F/LOSS. Sharing is not only about giving, it's also about getting back, it's about starting a discussion.
+
+http://stdin.fr/
+

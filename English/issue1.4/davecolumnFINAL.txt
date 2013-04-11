@@ -1,0 +1,29 @@
+Moral rights and the SIL Open Font License
+
+Dave Crossland
+
+Designers often express caution about Libre culture. Letting other people make modifications to their designs is unusual for them. This is especially true for type designers, since the harmony of a typeface design can easily unravel if changes are made carelessly. Copyright is the major legal restriction that stops others from making modifications. In some places, though, there is another restriction: moral rights. 
+
+Moral rights are explained on the English Wikipedia as "the right of attribution, the right to have a work published anonymously or pseudonymously, and the right to the integrity of the work." In many places such as France, authors are not allowed to transfer, sell or give up these rights to other people or parties. 
+
+Recently I was discussing the SIL Open Font License with France's highest profile type designer, Jean Francois Porchez. He asked me if these moral rights conflict with Libre licensing. The SIL Open Font License is the most popular license for Libre fonts and --I believe-- it does respect moral rights. Let me walk you through the OFL's compliance measures.
+
+Section 2 of the OFL requires that "each copy contains the above copyright notice." As a copyright holder, your copyright notice (which can include your URL and contact email) will remain with all copies and derivatives. This ensures that your attribution is made available. Additionally, there are FONTLOG text files commonly distributed with OFL fonts. These have a detailed description of the fonts, a timeline of releases, and details about all copyright owners and authors including those of any "parent" fonts. This is not required, but it is recommended by the OFL as a best practice and it really helps with good attribution. 
+
+Another side to attribution is a case in which the author //wishes// to be misattributed, in a way: anonymously or with a pen name. In this case, designers can simply use their handle, or "Anonymous," in their copyright notice and other fonts' metadata.
+
+A third side of attribution, what we might call bad attribution, involves the name of the designer of a parent font being used to promote derivatives. Section 4 of the OFL provides a guard against such misuse to "promote, endorse or advertise" a derivative. 
+
+Such attribution issues are quite straightforward. The concern is really the moral right to the integrity of a work. English Wikipedia explains that "preserving of the integrity of the work bars the work from alteration, distortion, or mutilation." Allowing others to make alterations is fundamental to Libre culture.
+
+Personally, I believe that saying an alteration of a typeface is a "distortion, or mutilation" is an entirely personal opinion. If I chop off the serifs from a typeface and respace it, I think it would be strange for anyone to say that I //mutilated// it. Others can say I did it poorly, that making a related sans is really a new design project and many other details of the typeface must be changed to re-harmonize it. But for my personal identity to be so wrapped up in my work that I could have hurt feelings in this way seems bizarre to me. Yet many artists and designers do feel strongly that the work they have made should not be altered by other people at all, even in the countries where moral rights are not institued in law, like the United States.
+
+The identity of a designer is associated with his work. In type, there is a common association of the name of a typeface with the name of its primary designer. Making a change naturally invites altering the name to reflect differentiation. Using the original name in part could cause the association with the original designer to carry over too far. The OFL has a solution to this. It allows designers to set Reserved Font Names, which act in a similar way to trademarks. 
+
+If you declare a Reserved Font Name, the OFL ensures that when your font is modified then the name you chose for the font will //not// be used -- unless you give additional permission. 
+
+This naming restriction encourages people who make 'corrections,' who adjust minor details in the font --tweaking a kerning pair here, adding some metadata there-- to contribute their changes upstream, back to the original designer who maintains the font under its most well known name. 
+
+In all of these ways, among others, I personally believe the OFL respects moral rights, while maintaining the principles of Libre culture.
+
+[FOOTER] The author of this column is not a lawyer. This column is meant as a set of guidelines and opinions, not as legal advice.

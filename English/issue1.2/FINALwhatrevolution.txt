@@ -1,0 +1,5 @@
+What Revolution? by Antonio Roberts
+
+//What Revolution?// is the first in a series of images challenging the ideas of celebrity and idols. The 1960 photograph of Che Guevara by Alberto Korda has been endlessly mutated, transformed, and morphed. It can be found advertising anything from belts and "hip and cool" t-shirts to health insurance. It is tacked onto political movements without much consideration of the history behind it. One has to ask if his image is still the symbol for change and revolution that it was fifty years ago, when it was furiously distributed throughout Europe by Jim Fitzpatrick in protest of the conditions of Guevera's murder.
+
+The vector image of Che was glitched using a C script written by Garry Bulmer. The script randomises the position and other values of the nodes in the file. The background is a random image found on the Internet tagged with "Revolution," which was then glitched many times using UCNV's Glitchpng Ruby script. To get the sharp colours, I reduced the image from 8 bits to 1 bit using ImageMagick. All of the separate elements were then recomposed in Inkscape.

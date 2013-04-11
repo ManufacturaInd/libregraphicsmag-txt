@@ -1,0 +1,37 @@
+In Practice
+
+RestructWeb
+
+Annemieke van der Hoek
+Timo Klok
+Michael van Schaik
+
+What is RestructWeb? 
+
+Restruct web is a three-person web design & development agency from Rotterdam, creating user-friendly websites and (web) applications. We are a full service commercial web/software agency, with a passion for F/LOSS. Services we provide include: online strategy, web design, web development, mobile applications and custom/special software projects. 
+
+
+Why Collaboration?
+
+We have a background in graphic design/video, and met at the Piet Zwart Institute. After our graduation we each ran our own separate studios for a while. During these years we found it hard to do everything on our own. One has to stay up to date with the latest technologies, design developments, handle business, act on malfunctioning websites/servers and try to find time to actually work as well. Our conclusion was that while all this work could be done by one person, it would be tough to also be good at it.
+
+The logical solution was to merge our three studios. Naturally, each one of us also had individual reasons to collaborate. They ranged from being taken more seriously as a business, being able to handle bigger projects and sharing the process of creation to sharing the rent, dividing tasks and being able to specialize. Of course, wanting to work with each other helped, too. 
+
+We make each other laugh. A lot.
+
+
+Who's the boss? We all are. When we started, we clearly outlined the direction we wanted to take as a company and who would focus on what. While we try to stick to this plan, it doesn't always work. Depending on the projects at a specific moment, we may all, for instance, be doing some coding. That's one of our strengths as a group: we each have our specialties but we can also cover for each other.
+
+Whenever we make bigger decisions, we naturally discuss them first. But we also explicitly trust each other in smaller decisions so we don't have to discuss everything. As a company, we are a bit like a mesh network; we each have an equal say in decisions and each do the part of the work we're most interested in. We also have a built-in veto clause: any one of us can decide that the group should not take on a specific project or client. In those cases it's be up to the other members if they want to do the project outside of RestructWeb.
+
+Our collaboration, by having a non-hierarchical structure, causes each one to be responsible for keeping the company and the others up to date. We adapted the workflow for user-centered design as described by J.J. Garrett to our projects. This is working well for us so far. Being able to divide an assignment into specific chunks like strategy, wireframing, design and development, etc. allows each of us to focus on these tasks and develop our abilities in a specific direction. We've noticed this clear workflow is also appreciated in communication with our clients. It helps them focus and decide on the right choices at the right time.
+
+We fill gaps in the workflow with in-company projects, like the wireframe-library we're currently working on, or by doing research. These are tougher undertakings when working alone.
+
+In all our projects we have a strong focus on F/LOSS, and especially open standards. 
+
+Programming, being able to script and being able to understand the inner workings of a technology, are important aspects of F/LOSS for us. We may script a part of an SVG and finish it in Inkscape (or the other way around). Recently, we've made a generative identity which reacts to rhythms found in nature. We wrote the algorhythm in PHP/Python and generated some 20.000 different logos within a few hours. We then scripted Inkscape to convert a few hundred of them into business cards (PDF), and used pdftk to combine them into one printable document. Try that by apple-scripting Illustrator!
+
+Another reason we love F/LOSS is cost. We occasionally set up machines for exhibitions. Cheap, after-market Linux boxes usually suffice instead of the expected, super expensive Macintoshes. While this same pragmatic financial reason is gaining support in the business world, the art schools in the Netherlands seem to be lagging behind. They still tend to mainly teach the Adobe toolchain on high-end, brand new Apple machines.
+
+After graduation in the Netherlands, when you start your own studio without much of a budget, you have roughly two options; start out with pirated software or try to get a "startstipendium" (funding for auspicious graphic designers by the Dutch government) and use that to buy official hardware and software. It's a bit sad to realize that a big chunk of this public tax money gets poured straight into the bank accounts of Apple and Adobe. If students were educated to consider F/LOSS as a viable alternative, it could save them a lot of money. Money we think would be better spent on the acquisition of knowledge and self-initiated projects to develop the profession further.

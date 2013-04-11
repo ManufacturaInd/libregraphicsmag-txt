@@ -1,0 +1,19 @@
+Feature
+
+Resurrecting the noble plotter
+
+Ricardo Lafuente and Ana Carvalho﻿
+
+Pen plotters are already a somewhat distant artefact of early mass-production digital devices. Designed to meet the needs of technical draftspeople by tracing CAD and architectural schematics, they were made obsolete by large-format inkjet printers right before the turn of the millennium.
+
+The appeal of a pen plotter was its precise ability to trace contours in a way that no other kind of printer could. Its transparent operation looks almost magical: after the document is sent to the device, a mechanical arm grabs one of the available pens and quickly traces a drawing, switching pens as it goes if the document requires more than one colour. Unfortunately for the plotter, breakthroughs in printing resolution made it possible to reproduce (and surpass) the quality of a plotter’s accurate lines. Thus, for technical and professional purposes, pen plotters have become obsolete and now pop up regularly at bargain prices on auction sites, with the cost of shipping the bulky device sometimes more than that of the used pen plotter itself. 
+
+The fast-paced upgrade cycle of modern operating systems, with the inevitable consequence of dropping support for older devices, has resulted in the absence of any kind of recent drivers for most pen plotters in Windows and OS X. It has also become significantly harder to find software that can work with the plotters’ page description language, HPGL.
+
+As you would expect, given this dire scenario, F/LOSS comes in to save the day. Chiplotle is a small and powerful Python library which provides a command-line interface that allows sending HPGL files to a plotter. Even if it isn’t supported directly by the library, you can probably get your plotter working using Chiplotle’s generic profile. 
+
+What about HPGL? It is indeed hard to find support in modern software, but again, as expected, our favourite vector editor provides the answer. Inkscape is able to export HPGL files, right out of the box. And since HPGL files are plaintext, there’s little to stop us from making our own scripts to fine-tune and correct the document before sending it for drawing. We’ve documented the process in some detail in our blog (http://tinyurl.com/plotterhacking).
+
+In exploring plotter hacking, we worked with Diogo Tudela, who acquired a used Roland DPX-2200 A2 plotter and wanted to hook it up. Using Chiplotle and hacking through the hardware adapters in order to get the right configuration, the three of us managed to resurrect this 1985 device into full operation. It was a thrill to be able to experiment with things that regular printers cannot do: we can fit almost any pen in its robot hand, as well as use fancier kinds of paper that would jam a regular printer. The process of hand-tweaking the HPGL files and making pre-processing scripts brought us a lot closer to the peculiarities of a plotter’s operation principles, far from the usual black-box experience that regular inkjets give us, with their sealed print cartridges and hard-to-hack interfaces.
+
+With F/LOSS developers providing the necessary tools, and with plotters available at bargain prices, there's no better time for hacking and exploration with the noble pen plotter.

@@ -1,0 +1,23 @@
+new releases
+
+Reclaim your tools by Jakub Szypulka
+http://vimeo.com/18568225
+Documents the slow beauty and diversity of activity to be found at even the most hectic meeting of software contributors. In this case, documenting Libre Graphics Meeting 2010. Made using Kdenlive and Audacity. 
+
+AdaptableGIMP
+http://adaptablegimp.org
+A new version of GIMP, which allows users to make easy customizations. Read more about it on pages [nn]-[nn].
+
+ArtistX 1.0
+http://www.artistx.org/site3/
+A version of GNU/Linux which bills itself as able to turn a "common computer into a full multimedia production studio." Based on Ubuntu and designed for multimedia artists. 
+
+CrunchBang 10 Statler 
+http://crunchbanglinux.org/ : 
+CrunchBang is version of GNU/Linux notable for its community of users who actively share screenshots of their modifications to the desktop. They share not only screenshots of their modifications, but also instructions for replicating their results.
+
+WordPress Version 3.1
+http://codex.wordpress.org/Version_3.1
+Our favourite F/LOSS content management system and blogging platform has a new release out. Includes lots of exciting new features to make admin work and theming tidier and more enjoyable.
+
+What's new with you? We're always eager to find out what designers, artists and others using and working with F/LOSS are up to. Tell us what you've done lately at enquiries@libregraphicsmag.com
