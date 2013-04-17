@@ -1,0 +1,92 @@
+Applying F/LOSS as a final user and not dying in the attempt
+by Lila Pagola
+
+The artistic community of Córdoba first noticed F/LOSS in August 2003. There was an introductory talk about the philosophy of free software, given by Grulic, the local F/LOSS group. The talk was part of an art and technology event, the main topic of which was local initiatives merging technology and artistic practices.
+
+That talk was a breath of fresh air for our little world which was exploring how net.art initiatives were going mainstream. For most people, the information in the talk remained just some ideas, with no effect on daily software tool use.
+
+In 2004 many of us began some touristic trips to GNU/Linux. We discovered there were barriers of knowledge and practice preventing us from adopting it permanently. In March 2005, after an inspirational workshop given by Constant and Studio XX in Buenos Aires, the idea of creating a special project to help artists test and migrate to free software emerged.
+
+The first step was a dedicated install party in May 2005. On that occasion, we provided and helped to install Mandrake GNU/Linux with some customised software packages specially selected by us and added to the distribution by Grulic. We also hosted some short demos by artists with software such as Blender, Audacity, and GIMP in order to present the general characteristics, possibilities, limitations and defining traits of these programs.
+
+Knowing the importance of further support in the first experience, this step was continued and documented in a shared wiki, a mailing list and later, a blog. From the original 20 participants, less than half continued the regular use of free software. Some had serious problems with specific hardware support, such as video capture cards and professional sound cards. Others never got used to new interfaces, with the loss of expertise that comes with them. The commitment shown by Grulic, which created a kind of  direct line to us, in order to solve problems and discuss doubts, was remarkable. 
+
+The Nómade project's other line of work was producing complete graphic design pieces with free software. Most of them were completed thanks to the good faith of the Vía Libre foundation, an NGO devoted to spreading free software philosophy, as well as other local F/LOSS and free culture organisations in Argentina. So far, we've designed several books, posters, booklets and other pieces.
+
+The Context
+
+The use of software in graphic design has a short history. It feels as if software appeared in the late eighties and began to be massively used in the early nineties. Of course, there were only one or two very well known brands.
+
+Later, when the first successful graphical user interfaces appeared for the PC, they came with lots of new software for drawing, post-production images, painting (maybe you remember the amazing /Painter/). We furiously installed and tested these programs. Artists and designers were living in heroic times, installing from 10 or more floppies, over the course of almost an hour. And we were so proud of our machines with 65,000 colours.
+
+Those were times of intense experimentation. We experienced daily discoveries and improvements, as well as heavy battles for standards. In the late 90s, some stability was achieved. That stability meant the end of some experimentation, the definition of right ways of doing things, and also the standardisation of some options - those related to apps and file formats, for instance. These became not just the preferable or the better formats, but the only usable ones.
+
+This was the case until F/LOSS arrived on the design horizon. For many designers, F/LOSS was not much more than a curiosity, meant for amateurs, or even a solution for young and poor beginners.
+
+This context has had, until now, two main contributors: education and the market. In Argentina, education is the determinant for further professional practice. As in other fields, the first pedagogical approaches to digital tools were very instrumental. Whole lessons -and even syllabi- were built around a specific software, with absurdly detailed “step by step” guides for a tool in constant change. Of course, the tool chosen was “the only one,” well known and preferred in the actual market.
+
+Why choose F/LOSS in that context?
+
+For the Nómade project, the option for free software is about aligning poetics and politics, form and content. It is a way of  being consistent with the topics communicated by the pieces we design. We use free software and culture as actions against monopolies, patents, DRM, etc.
+
+At the same time, the experience became a live example of viable alternatives to prohibitive and/or illegal software for graphic design. We began the discussion around which software we use in professional practice and which software we teach in design schools.
+
+Choosing F/LOSS was also a way to escape the pressure of productivity and market determining times, regimes and “right” ways of doing. It represents a possibility of reinstalling experimentation as procedure and criticism on the politics behind tools. Of course, the F/LOSS model promotes the debate about circulation of culture and authorship.
+
+One Work-flow
+
+By the end of  2006, when we began the first big project -the book //Artificial monopolies on intangible goods//. We made a bet. None of us actually knew if we would be able to finish the book using only F/LOSS, or how acceptable the results would be.
+
+There were some critical known aspects to explore, such as 4-colour output and colour management and others to test, like the actual compatibility of the generated output files in a common production process. With the first book, we gained experience about how to manage a better work-flow for preventing mistakes and countless reviews. 
+The first problem appeared around fonts and their installation. Because we were newbies in Ubuntu, but used to installing and uninstalling fonts visually, it was tough to venture into the command line.
+
+In my personal case, as a former QuarkXpress user, I began to work with Scribus. After using it for some hours, the work-flows became clear in their rough aspects. Maybe the most critical was the problem of footnotes. Having started from original texts in OpenOffice, with styles and notes at the bottom of the page, we quickly discovered incompatibilities between the two programs. Styles were imported by Scribus in a very messy way and when we saved the original .odt files as plain text, we lost parts of sentences. In order to solve this, the original texts were formatted again, setting notes at the end of the text, as a way to easily separate them from the main text. After that, footnotes were designed manually.
+
+The next challenge was dealing with the Random Access Memory (RAM) that Scribus consumes with files bigger than 30 pages. The book had 130 pages. Our plan was to include all content in only one file for ease in using functions such as the dynamic table of contents, the same master pages, etc. But we quickly discovered, after passing 40 or 50 pages, that the text editor began to work very slowly. So, we decided to divide the book into five sections and put it all together, for the web version of the book, with pdftk {check this}.
+
+For the third book, the editors decided to use a wiki (https://wiki.vialibre.org.ar/moinmoin/vialibre/Publicaciones/VotoElectronico) instead of originals in .odt. It was a better solution with regard to text styles and footnote management, but it generated a new problem: while on a wiki, changes were made directly there during a much longer period.
+
+Printing process issues
+
+We considered it a great advantage to have a friend in charge of the printing process, as we were interested in experimenting with new ways of doing this work. His patience and help were invaluable: he was a kind of bridge with people in pre-press and a backup for problems that, of course, occurred.
+
+The first book was also an ambitious design. Pages were printed in two colours, and the originals for each colour were made directly by the printer from the Scribus file, opened in a Microsoft Windows system (although the book was designed under Ubuntu). Then we discovered the first problem: some fonts were interpreted by MS Windows with a slight difference in metrics, and some parts of the design were misplaced. So, we had to check and manually correct every page again.
+
+The cover was done with Inkscape, GIMP and converted to CMYK mode with Krita. The first challenge here was to create a file with vectorial quality for drawings and typos and without colour differences between the raster images. Here, we faced some problems around the PDF output made from Inkscape, including a raster image with an alpha channel. We had to change the strategy, integrating all the vectorial background, except illustrations with raster images, eliminating the transparency. 
+
+The next question to solve was to find out which output would be best accepted by the pre-press company. We exported EPS, PDF and even an Adobe Illustrator files in order to deal with any incompatibility. The first time, the EPS was the “winner” because the people in pre-press preferred to open our original and manually set the resolution of vectors.
+
+From this first experience, we have repeated the process with a few variations. The second book was designed in Córdoba, but printed in Costa Rica by someone who didn't even know what software we were using. We decided not to tell the printer because of distance, and because we didn't talk directly to him, but only to our client.
+
+From doing to teaching
+
+This practical experience, using free software for design under normal conditions of production, has been a useful point for introducing the same software in design and photography classrooms. Actual designs done are a kind of backup for overcoming the first reaction of students and colleagues confronting the possibility of using free software in the actual field of visual communication.
+
+However,there are some barriers that are important to consider when discussing the option of free software in learning design.  In Argentina, pirated software is very easy and cheap to get and install, even - or especially - in public institutions. Faced with this reality, it is difficult to focus the discussion only on ethics or ideological positions. These theoretical debates tend to have no effect on the actual practices of students, teachers or professionals.
+
+In the case of the photography school at which I work, free software was installed in 2005 in a very forced way, due to licensing problems. When this happened, the minimal discussion teachers were able to have around the tools we use (and teach) led us to this unacceptable analogy: using just one brand and version of software in digital photography classes is like teaching about exposure techniques with just one brand and model of camera. For the camera, this would be considered clearly unacceptable and non-ethical for both teachers and students. However, using just one brand and version of software is a common practice and even one preferred by many.
+
+So, ideological positions plus proofs of efficiency are needed for opening the debate, but are not enough. Tools are not neutral, and probably will be always a field of political negotiation in terms of distribution, possibilities of improvement and customisation. 
+
+On the one hand, we need to go back to the attitude of the early times of intense experimentation, when designers explored, tested and rated software without any external pressures (such as using certain software because it is a synonym for “professional”).
+
+And, on the other hand, scholar communities should deeply analyse their practices on software teaching and learning. Both teachers and students should promote critical approaches and capabilities to adaptation and flexibility in who learns, instead of creating captive users with no social awareness.
+
+How can final users collaborate with developers?
+
+Perhaps the most critical point is how to build bridges between users (students and designers) and developers so we can  balance and improve the tools for everyone. Most people don't know that communities around applications exist, and that it's possible to participate. This is the very first task necessary among teachers and students. 
+
+But I believe designers and students should be involved in a more direct way. They should be stimulated to test, compare, discuss, and modify developments, and probably the best person to do that is the teacher. In many cases, it's just a matter of time and dissemination of information: as in other great initiatives of free culture, often the point is not disagreement or lack of interest, it's just ignorance on why and how to do it. Concrete environments and ways of participation where the added skills of everyone can make the difference.
+
+http://www.nomade.org.ar/sitio/
+
+Sidebars:
+About this text
+
+This text is an adaptation of a talk presented at LGM 2010 in Brussels, Belgium. It shares the experience of some pieces of design (books, booklets, and brochures) completely made with F/LOSS by a team working in Córdoba, Argentina from 2005 to present (with many changes), called Nómade project.
+
+The project emerged in a moment of growing interest in the Free Software philosophy among digital artists. Its main purposes are being an “interface between artists and [F]ree [S]oftware” and building actual ways to close the gap between theory and practice while providing support to “newbies” from the creative field. In other words, a proposal for evolving from affinity and theoretical discussions, to becoming users.
+
+The project developed this basic idea through two lines of action: the first one was creating a platform for helping a special group of guest digital artists from different fields (musicians, animators, graphic designers, web designers, etc.) to encounter, test and migrate to F/LOSS alternatives while doing their routine tasks. The second was producing graphic design completely with free software.
+
+

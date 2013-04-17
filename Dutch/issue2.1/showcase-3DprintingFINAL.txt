@@ -1,0 +1,6 @@
+Showcase
+The graphic side of 3D printing
+
+There's a little revolution taking place in basements, garages and hackerspaces. 3D printers --machines which turn digital meshes into physical objects-- are getting cheaper, better and more popular. We've collected samples of some strikingly graphic 3D prints, designed with F/LOSS tools. 
+
+All of the projects featured in this showcase are available from Thingiverse (http://thingiverse.com), under permissive licenses, for printing and modification.

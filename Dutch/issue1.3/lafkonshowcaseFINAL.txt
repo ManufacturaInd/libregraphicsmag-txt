@@ -1,0 +1,12 @@
+Showcase
+
+Bash scripts for generative posters
+
+LAFKON
+
+Between 2008 and 2010 LAFKON made various posters for F/LOSS-oriented festivals, conferences and conventions. Custom F/LOSS setups were described inside Bash scripts to generate editions of parametric posters. The outputs are optimized for cheap reproduction. While one print run was usually made by the festival organisation, posters were available for download and self-print.
+
+LAFKON is a laboratory for graphic design occupied by Benjamin Stephan and Christoph Haag. Lately they have been doing practice-based research on generative processes as design tools and started to rebuild Deep Blue to work for them as a layout intern.
+
+http://www.lafkon.net
+

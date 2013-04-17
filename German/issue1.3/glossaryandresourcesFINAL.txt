@@ -1,0 +1,87 @@
+bash:
+A freely licensed Unix shell. See command line.
+
+command line/console:
+A text-based interface for controlling a computer.
+
+copyleft:
+A style of licensing in which those redistributing the work are required to do so under its original (or a compatible) license.
+
+Fedora:
+A popular distribution of GNU/Linux, produced by Red Hat, Inc.
+
+Free/Libre Open Source Software (F/LOSS):
+Software which has a viewable, modifiable source and a permissive license (such as the GNU GPL). It can be modified and redistributed.
+
+Git:
+A popular version control system, originally created to manage development of the Linux kernel.
+
+GNU General Public License (GPL):
+A license originally intended for use with software, but now used for other applications. Made famous the principle of Copyleft, requiring those using GPL licensed work to license derivatives similarly.
+
+GNU/Linux:
+A group of operating systems which are built on the Linux kernel and components from the GNU project, among others, which are widely distributed and freely modifiable.
+
+hexadecimal code:
+A six-character code prefaced by a hash symbol (#), used to define colour, especially for web applications. Eg. #000000 for black.
+
+hacktivism:
+A movement or school of belief based around the ideas of networked activism, aided by technical knowledge.
+
+Inkscape: A vector graphics editor for GNU/Linux, Mac OS X and Microsoft Windows.
+
+Internet Relay Chat (IRC):
+A popular form of internet-based real-time chat. Has a long history of use and is still popular among groups of developers and users. 
+
+Movable Type:
+A F/LOSS blogging platform released under the GNU GPL.
+
+open license:
+A license which allows and encourages re-use and appropriation of creative works, in contrast to the all rights restricted norm provided by traditional copyright. Examples include the GNU GPL, the SIL OFL and the Creative Commons family of licenses.
+
+Open Source: 
+See Free/Libre Open Source Software
+
+open standards:
+A standard which is available for viewing and implementation by any party, often at no monetary cost.
+
+Perl:
+A popular programming language, often used for writing web applications. 
+
+PHP:
+A popular scripting language, used for web development.
+
+proprietary:
+A piece of software or other work which does not make available its source, which is not allowed or intended to be modified or redistributed without permission.
+
+public domain:
+The legal status of a creative work for which the copyright (or other rights restriction) has expired. A work in the public domain can be used by anyone, for any purpose, without restriction. Licenses such as the Creative Commons CC0 license emulate public domain.
+
+Python:
+A popular programming language, known for its readability.
+
+Scalable Vector Graphics (SVG):
+An open standard for vector graphics, developed by the W3C.
+
+Scribus: A desktop publishing program for GNU/Linux, Mac OS X and Microsoft Windows. 
+
+script:
+A small program, often used to control a larger program or block of code.
+
+SIL Open Font License (OFL):
+A license intended for use with fonts and font related software. Dictates terms which allow modification and redistribution of fonts.
+
+Telnet:
+A protocol for networked communication. 
+
+Toonloop:
+A F/LOSS stop motion animation program.
+
+Ubuntu:
+A particularly popular distribution of GNU/Linux, produced by Canonical Ltd.
+
+version control:
+Activities which have the effect or intent of distinguishing different versions of a work or body of work from one another.
+
+W3C:
+The organization responsible for setting web standards, such as HTML5 and SVG.

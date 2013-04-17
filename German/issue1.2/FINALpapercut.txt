@@ -1,0 +1,11 @@
+Papercut by Allison Moore
+
+Papercut is‭ ‬a Blender-based video game in the style of traditional side-scroller‭ ‬roleplaying games.‭‬ There is a central character and a landscape to traverse.‭ ‬You are a lumberjack.‭ ‬You must cut down trees with a chainsaw.‭ ‬The game world is designed combining hand drawn illustrations with cut-out scanned textures.‭   
+
+There are two characters to choose from: ‬a Lumber Man and a Lumber Lady.‭ The main character must deforest the landscape.‭ ‬Your only tool is a chainsaw.‭ ‬As you cut down trees you collect points.‭ ‬There is a time limit to each level,‭ and if you meet your tally,‭ ‬you advance to the next level.‭  
+
+Papercut creates a main character with a questionable morality.‭ ‬In traditional gameplay,‭ ‬the main character is definitively good whilst any character blocking the path is definitively bad.‭ ‬Geographical obstacles,‭ woodland creatures and hippies block your path.
+
+The virtual world combines exaggerated representations of the existing world with elements interpreted from my imagination.‭ 
+
+I played a lot of games in the‭ ‬80‭‬s and early‭ ‬90‭s,‭ ‬so I like vintage/retro games and this is the aesthetic that influences me most.‭ ‬It was hard to wrap my mind around a‭ ‬3D world,‭ ‬so I decided to make it‭ ‬2‭ ½ ‬D.‭ ‬I use‭ 2D references of vintage games incorporated in the‭ ‬3D landscape.‭ ‬The final result is like a paper puppet set, my‭ ‬2D characters like puppets navigating through a diorama-style set built in‭ ‬3D.‭ ‬Trees fall like leaves of paper.

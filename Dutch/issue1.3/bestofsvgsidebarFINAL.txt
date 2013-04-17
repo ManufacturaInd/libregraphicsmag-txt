@@ -1,0 +1,7 @@
+We at //Libre Graphics// magazine have a thing for open standards. We like their transparency and their interoperability. We like that, with a well documented standard, everyone has an equal chance to play nicely together. 
+
+That's why we like SVG so much. It's a well developed, well supported standard brought to us by the World Wide Web Consortium (W3C). It's available for implementation by anyone developing software. It shows up in modern browsers, fine vector graphics editors and any number of other places. 
+
+One thing that's missing, though, is you: the designer, the artist, the illustrator. So put down that .ai file and check out SVG. 
+
+-the editors

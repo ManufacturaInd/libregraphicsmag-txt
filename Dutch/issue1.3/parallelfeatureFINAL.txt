@@ -1,0 +1,39 @@
+Parallel School--an interview
+
+Thibaut Hofer
+
+The Parallel School is a virtual art school, dedicated to promoting self-education. Find it online at parallel-school.com
+
+How many of you are there?
+There is no precise number. Depending on the activities, we can be two, ten, twenty... Some take part in projects on a regular basis, others prefer to stop right after a workshop. Since the beginning, about one hundred students and professionals have somehow contributed to the project. Then, some connections were made and, depending on our free time, about a dozen people keep on initiating projects now. The utopia of the Parallel School is to become a sunshade that anyone can make use of. But for now, in practice, projects are still being created by the people who set up the school. We all run the project in parallel with our occupations, so its development takes some time, and we hope that other people might inspire new ideas and projects in the future.
+
+How was the project born? Does it draw inspiration from other models?
+At the beginning, we were inspired by Jacques Rancière. In Le Maître ignorant, Rancière tells the story of Jacotot, a teacher who claimed, in the 1830s, that ignorant people could teach themselves without a master, and that masters were able to teach what they ignored themselves. To justify his position, he mentioned one of his teaching lessons, during which his students learned French thanks to a bilingual version (Flemish/French) of Télémaque, comparing the two versions.
+
+We then put together a corpus of references that seemed to fit our concerns, which every contributor can use or not. One of the most important things – among others – we could mention is the Hidden Curriculum project by Annette Kraus, which tries to bring to life some alternative forms of education, like asking her students to reveal their tips to avoid working at school (making a screenshot of a word processing software, playing a video game and opening the image when the teacher comes, etc.) or publishing the excuses told to explain absences (“I overslept. It was raining. I was on my bike and realized that I still had my pyjamas on, and had also forgotten my bag.”). 
+
+What are the purposes of your workshops?
+Actually, there is no purpose. We want something, then we try it. It all starts with the pleasure of travelling and meeting students from other schools. Then comes the pleasure of working for yourself, without deadlines or any other pressures than the ones you put on yourself. The richness of sharing and arguing between participants is one of the most attractive points of these workshops. In the end, there is the will to store parts of our experimentations, most often as publications, so that anybody can retain a memory.
+
+At an educational level, learning curves can be really different. What's important is to avoid hierarchy or judgements about the educational tracks suggested by the students. We may be interested in notions such as errors, bad ideas or weirdness, as we try to give priority to creative processes that don't take place in our respective schools.
+
+How long does a workshop last? Is there a key moment or step?
+Workshops last a week, more or less. This is long enough to achieve viable content and short enough to prevent it from overwhelming our everyday occupations. As in many short-term experimentations, it seems that the key moment is the end of the workshop, when the pressing necessity of designing and finishing reaches its climax. Usually, this is the moment when we finish printing the publication, too. The never-ending arguing  gives way to manual conception. In Berlin, we bound our publications until 1 A.M. with parquet boards in a wasteland, lit by the headlights of a car.
+
+
+Are participants selected?
+Not really, as everybody is able to suggest or collaborate. We just need to find our audience. Someone who has already contributed to an event of the Parallel School has no obligation regarding the future activities. As anyone can suggest a project, whether it is a workshop or a thought via email, readings, sharings, the instigator has to find interlocutors, announce it on the blog (anyone can ask for the codes to publish). Though it certainly is easier to organize events for people who have been involved for a long time, a Yale student recently suggested a big project that had us all interested. So everything is possible. The only necessity is to be at least two – a group – and to find an audience.
+
+Then, the links create or change the groups, but there is no obligation to work with everybody and to reach a consensus.
+
+Is the content of your workshops shared or spread afterwards?
+Our workshops gather very few students, and we think it is actually interesting to spread these actions, whenever they have a modest scale. Firstly, because the circulation allows us to meet new people, and then because – without claiming we are defining a model – we find it interesting to show how easy and exciting it is to take care of your own learning curve. At some point, we found it necessary to legitimate our activities with a blog – though we could have kept our experimentations to ourselves – because we have in mind that there is a kind of political speech hiding behind our actions. The internet allows a small workshop of fifteen people to spread, to be seen by many more. We've been greatly inspired by and sensitive to anything that can be seen on the internet. Anyway, virtual life is for now the only one that allows us to meet unknown people from everywhere in the world. We're currently thinking about publications, but we must admit that we are really content with the idea of free PDF files for now.
+
+What do you think of open licences? Do you find them suitable for education?
+They are probably the future of education. Anyway, the idea of copyleft is nearly inherent to the project of the Parallel School.
+
+Do you allow people to download, share, maybe reprint your lectures and lessons?
+We do if we can. The publication made in Moscow has been available for download on Manystuff(1), as has the one made in Berlin (and on our blog, I think). 
+
+(1) www.manystuff.org, a website gathering visual resources in graphic design on an everyday basis.
+

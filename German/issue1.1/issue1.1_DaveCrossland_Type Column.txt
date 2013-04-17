@@ -1,0 +1,43 @@
+Type Design {this is the column heading}
+Dave Crossland {author}
+Freed fonts, strong web {this is the headline}
+
+Pull quote: "The web is about to become as typographically powerful as the latest proprietary desktop publishing applications."
+
+Fonts are essential to the design of every web page, and true web fonts are about to bring the typographic sophistication of print to the web in force.
+
+It’s taken a while. In 1998, Internet Explorer 4 implemented the feature with a DRM font format, Embedded OpenType (EOT), because it was part of CSS2. Despite that fact, it was ignored for years by other browsers until CSS co-founder Håkon Wium Lie championed it 10 years later. Slowly all the other big browsers began to support regular TrueType fonts, and resisted pressure to implement a standardised DRM format. Today SVG Fonts are used in iPhones, Internet Explorer 9 supports TrueType fonts, and Libre tools do EOT conversions. Web fonts work everywhere.
+
+In May, Google launched the first font service providing only Libre fonts. The blog for the service (http://googlewebfonts.blogspot.com) recently revealed some details about its growth - nearly 500,000 domains showing web fonts to 17 million people a day.
+
+In 2011, CSS3 will take web fonts beyond the simple font linking feature of 1998. Designers will finally be able to use the full power of OpenType fonts directly in webpages. This can be tested today with Firefox 4 beta releases. 
+
+<strong>The web is about to become as typographically powerful as the latest proprietary desktop publishing applications.</strong> This means that web designers should now take time to learn about how typefaces vary and what those variations mean for readers -there will be a lot of libre fonts to choose from, and we should choose fonts wisely.
+
+Three kinds of font classification schemes are useful to guide designers in their choices. 
+
+1. <b>Simple Categories.</b> These are are deceptively simple. The deception is their “Other" categories. CSS itself has a very simple scheme (Serif, Sans-Serif, Fantasy, Mono) and this is useful because everyone can remember its groups. Contrast that with the ‘IBM Family’ scheme which uses a long list of historical genres and many “Miscellaneous" caverns.
+
+2. <b>Parametric systems.</b> Common forms of the elements of the Latin alphabet are described and related. The result allows users to drill down into a font collection interactively: “Letters that wide, serifs this thick, an axis of contrast at that angle." PANOSE’s second version was a sophisticated example that has sadly disappeared thanks to an acquisition by and merger with Hewlett Packard. 
+
+3. <b>Tagging.</b>  Just as we tag photographs in centralised proprietary photo storage services, font can be tagged. I imagine that eventually a de-centralised federated font classification network service will be made, perhaps building on the Libre-licensed Typedia.org project. While the first two have their place in learning how fonts are different, tagging is for me the most useful classification technique when deciding on a font.
+
+The words people tag with are often not the words used by other schemes. Instead, people relate to fonts with what Ovink described in 1938 as atmosphere values: "Those properties by which [a font] excites feelings within the reader." 
+
+Curiously, Ovink found in his research that general readers can't tell the difference in atmosphere values of two typefaces which are very similar. I might suggest that this means designing new type is, for practical purposes, entirely pointless. 
+
+Most importantly, he concluded that picking the "wrong" font is a "missed... opportunity to intensify the force of impression of the text in a considerable degree."
+
+
+To web designers choosing web fonts, watch out. 
+
+
+
+
+[Breakout box: Today, web fonts are most useful at large sizes where the rendering problems associated with hinting do not occur, where images of text are common. Since the beginning of the web, a lot of large-size text on webpages has //not// been typeset in overly-familiar system fonts. Instead, headlines are frozen into static images. This can be only just accessible at best. Today, the accessibility of the web impacts everyone because it defines our ability to machine-translate the webs of other language cultures.]
+
+
+Dave Crossland believes anyone can learn to design great fonts. He is
+a type designer fascinated by the potential of software freedom for
+graphic design, and runs workshops on type design around the world.
+<em>understandingfonts.com</em>

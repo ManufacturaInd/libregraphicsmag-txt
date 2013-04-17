@@ -1,0 +1,66 @@
+Making your workflow work for you
+by Seth Kenlon
+
+[pullquote: "do one thing and do it well."]
+
+Everyone works differently, regardless of the task. Every artist has an individual style for getting things done quickly, efficiently, and in such a way that the effort required doesn't ruin the inspiration driving the work in the first place. Whether the motivation is a client or a personal passion, the process that an artist uses to finish the job is generally known by the term "workflow."
+
+Even though everyone tends to be unique in the way they work, much proprietary software enforces a very specific workflow. In fact, deviation from that workflow is discouraged. The nature of the business demands that a proprietary software vendor ensures its product is all an artist needs. In other words, proprietary software, in order to make the greatest sales, seeks to be a monopoly.
+
+Many artists take this for granted because those proprietary software packages are what they learned in school or at work. Some literally do not realize there is any other option. However, on almost any platform there are a host of F/LOSS tools which can enable artists to take control of how they want to work, and what works best for them.
+
+How do you know if your workflow needs refinement?  There are a few good indications:
+
+- If you find yourself using applications to do things that they (technically) can do but were clearly not designed to do, you might find it far more efficient to seek out the right tool for the right job.  
+
+A characteristic of Free/Libre Open Source Software applications is that very few attempt to be everything to everyone. In fact, a basic tenet of F/LOSS, handed down from Unix, an historically easy operating system for which to create custom applications, is that of modularity. This idea is commonly expressed in the mantra "do one thing and do it well."
+
+This means that F/LOSS tends to focus on individual tasks that can then be strung together. Does this sound like the great beginning of a formidable personalized workflow? It is.
+
+Proprietary graphics applications lull users into believing they can do everything, but in reality they do one general set of tasks well and offer heavily pared-down tools for everything else. For instance, a bitmap graphic manipulation software might offer some basic page layout and vector drawing features. The theory, presumably, is that if a user only needs a few basic vector illustration or page layout tools, then those tools will be available. In practise, however, artists become so familiar with this monolithic application that they start using it for everything, cobbling and hacking together entire pieces with one wrong tool. While this does get work produced (a result that is always difficult to argue with), it often does so after far too much unnecessary pain, too many workarounds and speed bumps. 
+
+F/LOSS software encourages people to use the tools that are designed for the job. In so doing, the artist is freed to use anything he wants to use. Whatever application an artist finds easiest and most suitable for his art, he is free to use, from the most complex vector drawing program to the most basic paint program. Since F/LOSS is dedicated to interoperability, there aren't as many format problems; the work done in one application can be imported and modified in another. No separate, fancy, confusing bridge application necessary.
+
+In a way, this means an artist might need to learn more applications. Most people find that while learning F/LOSS applications, there is enough internal logic to that application that the learning curve is modest. And certainly the fact that the application is designed to do the task being done helps a lot. There's no hacking around the fact that an application doesn't do the normal things it should do.
+
+
+- If you find yourself doing repetitious tasks by hand, again and again throughout a project, then there may be something designed to take that burden from you.  
+
+This idea springs up in many different places within the F/LOSS world. Since none of the code in F/LOSS applications is hidden, scripting these applications is quite simple if you have even modest scripting skills. However, some people have no scripting skills and don't want them - and for them, there is the Internet. Simple searches uncover myriad scripts to do repetitious tasks with command line applications.
+
+The Image Magick suite, for example, which itself consists of a number of command line tools is one of those applications that no graphic artist should ever be without -- regardless of preferred OS.
+
+Now, it often puzzles people to think of graphic work being done from a command line, but it is amazingly useful and flexible. Graphic artists using propriety software might spend an afternoon opening a graphic in a big bulky graphics application just to convert its colourspace. Artists using Image Magick, on the other hand, can issue a simple line command:
+
+bash$ convert file.tif -colorspace cmyk fileCMYK.tif
+
+and have the job finished in moments. Script that and hundreds of files can be done while you're onto the next task.
+
+
+- If you find yourself consistently being stopped or drastically slowed by the same set of small "quirky" problems on every project you do, then you may need a specialized tool to avert that issue.
+
+Proprietary software typically has two answers to your problems: don't do it, or spend more money to be able to do it. This might apply to a specific file format you want to use, or an effect you want to achieve, or a way of working.
+
+The F/LOSS world is set up differently, because there's no agenda to up-sell you on improved versions of the software and no need to limit what you can do. New tools are being developed every day to meet the demands of artists, and these tools are all free to download and use. All Free/Libre Open Source Software, by the very nature of having free source code, is extensible and expandable. As new tools are released, they can be integrated into the applications you use.
+
+
+DESIGNING F/LOSS WORKFLOWS
+
+Whether or not you have an existing workflow based on proprietary software, working on F/LOSS for multimedia is most efficient with a little planning. Without stepping back and looking at the whole project, it's quite likely that you'll reach a critical point and realize you're not prepared for the next step - or even aware of what your next step should be.
+
+The first step in designing your workflow is to identify what raw materials you'll need for production. If you're doing a digital painting, you might want to go out and find brushes and establish a custom color palette. If your work is graphic manipulation, then you might want to find useful textures, patterns, brushes, fonts, stock images, and so on. If your work is a magazine then you'll need articles, images, and fonts.
+
+Having this kind of kit before starting will make the project flow more smoothly during the creation phase. Some proprietary software comes pre-packaged with gigabytes and gigabytes of royalty-free stock content which, among other things, takes up quite a bit of room on your hard drive, mostly will never be used by you, and is stylistically quite identifiable as the corporate, royalty-free stock content that it is. F/LOSS does not ship with this, so you'll have to find your own, but with Creative Commons being the force that it is, this is a trivial matter and one that, in the end, produces a more unique work than the alternative.
+
+A good place to start is the so-called "Great Multimedia Sprint" from http://www.slackermedia.info/sprints/. This is a nearly 2GB collection of Creative Commons licensed content meant to be used as raw materials. More sprints are scheduled for the future, so more content will be available soon.
+
+The next step is to determine what software tasks and compatibility your project requires. If you're working on a magazine, for instance, then you're sure to need both bitmap and vector manipulation programs, a host of fonts and some way to organize and track them, as well as a good layout program. If you're not already familiar with the tools that F/LOSS has to offer for these tasks, investigate and try some of them to determine which one you prefer and which one will actually do the tasks you want to accomplish.
+
+Since you'll potentially be able to break up tasks into smaller applications, you might also want to consider how multiple computers might be put to work for your project. In the studio where I work, an old G4 running Debian Linux has been re-purposed with the solitary job of converting music files from one format to another while a G5 converts still frames to video. They aren't the fastest computers, they don't have so much as a monitor connected to them, but they can run these dedicated tasks all day and all night, so that the materials are available when needed.
+
+In the end you should be able to trace in a flow-chart how the work will get done. A graphic might first be converted and scaled with one application, manipulated and customized in another, and laid out in the final work in yet another. Exporting should, as often as possible, be done at maximum quality to result in a "gold master," which can then be modified and compressed into easily-distributed versions.  Again, this can easily be done with dedicated line commands that specialize in compressing (Image Magick for graphics including PDFs, pdftk for PDF modification, FFmpeg for video, and so on).
+
+
+THE WAY FREEDOM WORKS
+
+The bottom line is that the workflow in F/LOSS is not pre-determined for the artist. While this places the burden of designing a workflow upon the artist, it also frees the artist from a locked-down, inefficent art creation process, and opens a world of possibilities and creativity. And that's something worth working for.

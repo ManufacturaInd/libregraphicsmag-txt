@@ -1,0 +1,22 @@
+Blender 2.62
+The latest version of Blender includes motion tracking, an improved interface for the game engine and a number of new UV editing tools, among other additions. 
+http://www.blender.org/download/get-blender/
+
+VLC 2.0 Twoflower
+A major new release from the ever-popular video player. Now with faster decoding, an enlarged list of formats (which includes HD) and higher quality subtitles.
+http://www.videolan.org/vlc/releases/2.0.0.html
+
+
+GIMP 2.7.5
+Call it a beta of the next GIMP 2.8. This devel version of GIMP gives a taste of what's coming next, namely faster performance, improved tablet support and a lot of bug fixes.
+Available from:
+http://www.gimpusers.com/downloads
+
+
+Ghostscript 9.05
+With improvements to ICC colour rendering and font replacement, the newest version of Ghostscript has a number of design-sensitive additions.
+http://www.ghostscript.com
+
+Gnome 3.4
+The popular desktop environment has come out with its first new release in six months, incorporating new menus and search functionality, as well as a more polished look.
+http://gnome.org

@@ -1,0 +1,29 @@
+Feature
+
+Managing artist communities: the case for Ubuntu Artists
+
+Martin Owens
+
+<this is the bit before the article, just under the name>
+Martin Owens is the community leader of Ubuntu Artists, a community made up of painters, illustrators, modellers and others who use F/LOSS, and Ubuntu specifically, to create.
+</this is the bit before the article, just under the name>
+
+In F/LOSS culture we believe in strong communities working together towards a common goal, while having the freedom to go it alone if necessary. These same philosophies of community have the potential to work really well within the art and design ecosystem. These communities allow artists to come together, collaborating or simply enjoying being in a group and seeing other great works of art.
+
+The Ubuntu Artists community began on deviantArt, but has grown into something all its own. Started as a meeting point for like-minded artists who make their art on the Ubuntu distribution of GNU/Linux, it has matured over time.
+
+The group has attracted over 900 members who have contributed thousands of works of art to its galleries. Each of these works is presented to other members and watchers of the community. Commenting on and critiquing the works is a common practice and encouraged within the culture of the group.
+
+One of the primary tasks of the community leader is to curate the galleries, creating spaces for different kinds of works. These galleries, through their themes and content, reflect a community dedicated to artistic production using Ubuntu. While the generic "Ubuntu Made" gallery receives the most submissions, the "About Ubuntu" gallery, for works which reference Ubuntu, such as cartoons or fan art, is also active. The community also contributes themes, wallpapers and UI design.
+
+An ongoing job of the community leader is to approve each piece submitted. To prevent bottlenecks, the Ubuntu Artists community also has five lieutenants, empowered to approve works to certain galleries.
+
+It's important that while the group is formed around a Free/Libre Open Source operating system, it is, at its core, a resource to help artists get together and share their ideas and creativity. This is why the group actively promotes the use of F/LOSS, and why an atmosphere of support is encouraged. Asking questions and presenting problems are both encouraged and supported.
+
+Another vital function of the group and its leaders is to keep members informed about new developments in F/LOSS graphics. This takes the form of announcing new releases, letting users know where to find software, and providing installation instruction. This sort of support lowers barriers to entry. These sorts of announcements give members the opportunity to comment and chat about the news.
+
+One major growth area for the Ubuntu Artists community is in encouraging more participation and collaboration. The trick is to figure out how an artistic community is similar to or different from a developer community. These similarities and differences may just prove to be the major hurdle in porting the concepts of community, well-known to the F/LOSS world, into an artistic context. One pressing barrier at the moment is in the platform itself. The community of deviantArt where Ubuntu Artists is hosted, are not designed to facilitate collaboration and interaction.
+
+The Ubuntu Artists group provides a valuable service, advocating for the use of F/LOSS in art. One of the most powerful motivators is simply experiencing other people's works of art. Seeing the quality of work done by others who use only Free/Libre Open Source graphics applications offers the support some artists need. This may encourage them to continue with F/LOSS instead of switching back to proprietary, even when the learning curve may feel steep.
+
+The togetherness of F/LOSS culture can be spread further into the arts. And it's important for us to do so. I'll continue to run this little corner of deviantArt, teaching more people to work with a sense of community. It's a sense of community they may never have experienced before. I believe only together can we make art truly beautiful.

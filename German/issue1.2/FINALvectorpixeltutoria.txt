@@ -1,0 +1,27 @@
+Want to make your own vector pixels? Follow these (relatively easy) steps to generate your own vector pixel icons. 
+
+The following instructions should work just fine on either Linux or Mac. 
+
+Grab the code: Either type it in by hand, copying the code [below] or go to the assets sections of our website (libregraphicsmag.com/assets) and download the vector pixel pack we've prepared for you. 
+
+If you're copying out the code manually, enter it into a text editor and call the file vectorpixel.py. 
+
+Find an image: If you're doing it on your own (instead of using the assets we've provided), find a simple image. Make sure it has very few colours (you're going to have to strip all the colour out of it). Simple logos, warning signs and similar types of images work well. Open it up in your favourite raster image editor (we used GIMP). 
+
+Strip out the colour by doing things like increasing the contrast as much as possible and posterizing. You're aiming to have an image with only black and white. While you're at it, resize the image to a very small size. 50px x 50px works well.
+
+WARNING! We're serious about the small image size. If it's too big, the resulting SVG will be very, very big and may just crash your image viewer. 
+
+Save your image (as something like a PNG, JPG or other basic raster format). Make sure to flatten while you're at it. Layers will only cause trouble in this case. Make sure you save it in the same directory as your vectorpixel.py file. 
+
+Point the script: Take another look at vectorpixel.py. On the 8th line, you'll find something that looks like this: SOURCEIMAGE = 'city.png'. If you've made an image of your own, you'll want to change city.png to whatever the name of your file is. Then save vectorpixel.py again. Now, when you run it, it'll be looking for the right image.
+
+Convert it: Open up your terminal (for more on using the terminal, check out the detailed instructions and explanation on page [nn]). Navigate to the directory containing vectorpixel.py and your image. 
+
+At the prompt, type: python vectorpixel.py > city.svg
+
+If you've provided your own image, you can change that last bit. For example, if your source file is called attention.png, you can sub in attention.svg. All this does is set up a destination file. 
+
+Hit enter. It'll look a little like nothing has happened. However, if you go and take a look in your folder, you'll find a new file, called city.svg (or whatever you've named it). Take a look at it. It should be made up of lots of little vector pixels. 
+
+You've just made a vector pixel icon! 

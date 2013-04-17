@@ -1,0 +1,26 @@
+The Interview
+Natanael Gama talks techno-fonts and the benefits of Libre
+by Dave Crossland 
+
+DC: Could you describe Exo?
+
+NG: Exo is a contemporary geometric sans font family with a sleek, technological look. It has a peculiar look, but it can be very versatile. It is a very complete font family, with over 700 characters supporting most Western, Central and Eastern European languages -- and it can still go further!
+
+This coverage has been reached for all 9 weights, the maximum possible on the web. Each weight has an upright style and the corresponding true italic style. Many techno fonts have only the simple slanted oblique companion styles, but for the highest typographic quality it is essential to have true italics that are drawn specifically.
+
+The OpenType features include small caps, standard and discretionary ligatures, stylistic alternates, old-style figures, tabular figures, fractions, and more. These features will be available both as true OpenType fonts and also as simple fonts for use on the web.
+
+DC: Do you feel you achieved what you wanted from the design?
+
+NG: I feel I did, but I think in the end, only the users can say if a type designer succeeded or not.
+
+I designed it for use in magazines and magazine-style websites, advertising. I made it for display use, and it can work to typeset small amounts of text. It could even work well as a corporate identity typeface for the right company.
+
+DC: It's an impressive project. What's the story behind it?
+
+NG: When I started my career as a freelance graphic designer I faced the problem of not having enough good fonts to do decent work. When you are starting out, you don’t have that much money to invest in good typography, so many people break the license agreements of the fonts they use. Since I wanted to be as legal as possible, I got into the world of Libre fonts - and I am so thankful to those designers who are generous enough to share their work with the world!
+
+But along the way I have found that right now there are very few Libre fonts you can count on. This was a problem for me, and for sure it is the same for all those serious designers who avoid pirate fonts. The cheap stuff very often lacks important features to do a good job, but it can’t be changed or fixed. The amazing thing about Libre fonts is that they are both available at zero price and can also be improved, like Wikipedia!
+
+Having this situation in mind, I decided to invest my own time into the design of a good font family to help all designers. So I made Exo for myself and designers like me -- a font family for those who want to do a good job, but may lack the fonts to do it properly. I decided to make this a Libre font so the designers can do great work with a legal font family, and learn the value of high quality type.
+

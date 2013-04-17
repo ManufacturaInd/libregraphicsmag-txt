@@ -1,0 +1,3 @@
+Editing Markup Guide
+
+/ / : A word bordered by two forward slashes (as in: /Print/ ) is intended to be set in italics. 
