@@ -1,0 +1,11 @@
+Resource list 1.2
+
+Blender: A powerful F/LOSS 3D animation application for GNU/Linux, Mac OS X and Microsoft Windows.
+GIMP: A raster based image editor for GNU/Linux, Mac OS X and Microsoft Windows.
+ImageMagick: A raster image editing, creation and conversion suite for GNU/Linux, Mac OS X, Microsoft Windows and iPhone, among others.
+Inkscape: A vector graphics editor for GNU/Linux, Mac OS X and Microsoft Windows.
+Kdenlive: A video editor for GNU/Linux, Mac OS X, Microsoft Windows and FreeBSD.
+MyPaint: Graphics application focused on natural media simulation. Available for GNU/Linux, Mac OS X and Microsoft Windows.
+Scribus: A desktop publishing program for GNU/Linux, Mac OS X and Microsoft Windows.  
+Web Font Downloader: An extension for Firefox, allowing downloads of embedded web fonts. 
+

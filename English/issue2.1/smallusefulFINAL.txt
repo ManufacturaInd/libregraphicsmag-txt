@@ -1,0 +1,20 @@
+Small & useful
+Compiled by Vinzenz Vietzke
+
+There's an adage in the software world: programs should do one thing very well. In that spirit, we offer you a round-up of small and useful programs and resources which do one thing particularly well.
+
+pdf2svg
+A tool requiring some familiarity with the command line, pdf2svg directly converts PDFs to SVGs, exactly as it promises in its name.
+http://www.cityinthesky.co.uk/opensource/pdf2svg
+
+Knotter
+Knotter is a Celtic knot designer with rich customisation capabilities and robust export options.
+http://www.knotdraw.org/
+
+CMYKTool
+CMYKTool converts images from RGB to CMYK and back again, with profile embedding capabilities.
+http://www.blackfiveimaging.co.uk/index.php?article=02Software%2F05CMYKTool
+
+Swatchbooker
+SwatchBooker reads and writes a variety of colour swatch formats, both F/LOSS and proprietary, as well as supporting colour profile assignment and name changing. 
+http://www.selapa.net/swatchbooker/

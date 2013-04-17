@@ -1,0 +1,95 @@
+resources/glossary
+
+Blender: A powerful 3D animation application for GNU/Linux, Mac OS X and Microsoft Windows.
+
+Bug: A technical error in either software or hardware. Apocryphally believed to have been popularized by insects causing faults in early analog computers.
+
+CMS: Stands for Content Management System. Software installed on a server in order to provide a simple framework for editing web pages. WordPress and Drupal are examples of content management systems. 
+
+Command line: A text-only user interface, allowing users to input commands without the intervention of cursors and graphical user interfaces.
+
+Creative coding: Programming not for explicitly functional purposes, but for artistic or creative expression.
+
+Creative Commons: A suite of licenses designed to allow creators and users of works flexibility beyond that offered in traditional copyright.
+
+Domain extension/top level domain: A component in every domain name. Common TLDs such as ".com" or ".net" are available to anyone, while regional TLDs such as ".ca" or ".pt" may only be available to residents of the countries they represent.
+
+F/LOSS: Stands for Free/Libre Open Source Software. Software which has a viewable, modifiable source. It can be modified and redistributed.
+
+Firefox OS: An operating system intended for use on mobile phones. Developed by Mozilla.
+
+FontForge: A F/LOSS font editor for GNU/Linux, Mac OS X and Microsoft Windows.
+
+Free: As in freedom, or often, that which is or is of Free Software.
+
+Free software: A term describing software which is made available under licenses permitting users to not only run it, but to examine its code, redistribute it and modify it.
+
+Front end/back end: A distinction in web development between code which runs on the computer of the person viewing a given site (front end) and on the server which hosts the site (back end).
+
+GIMP: A raster based image editor for GNU/Linux, Mac OS X and Microsoft Windows. 
+
+Glitch art: A form of art which attempts to produce or leverage bugs or mistakes in software and hardware.
+
+GNU/Linux: A group of operating systems which are built on the Linux kernel and components from the GNU project, among others, which are widely distributed and freely modifiable.
+
+Inkscape: A vector graphics editor for GNU/Linux, Mac OS X and Microsoft Windows.
+
+Java: A programming language and platform developed by Sun Microsystems, intended for nearly universal compatibility with a variety of devices. 
+
+JavaScript: A scripting language commonly used on websites. 
+
+JQuery: A popular library used to write and integrate JavaScript efficiently.
+
+Krita: A drawing application supporting both vector and raster images. Available for GNU/Linux, FreeBSD and Microsoft Windows.
+
+libgeos/Geometry Engine Open Source (GEOS): A library for rendering geometry. Available for GNU/Linux and Windows.
+
+Libre: A less ambiguous adaptation of the word Free. Implies liberty of use, modification and distribution.
+
+LibreOffice: A F/LOSS office suite incorporating standard productivity tools such as a word processor, spreadsheets and slideshow builder, among others. Available for GNU/Linux, Mac OS X and Windows.
+
+Meteor: A JavaScript-based platform for the development of web applications.
+
+Mozilla: A non-profit organization best known as the developer of the Firefox web browser. 
+
+Open data: A concept (and associated movement) promoting the public availability and sharing of data. Often associated with efforts to make government data public.
+
+Open hardware: Hardware which follows the same principles as F/LOSS, including publicly available, freely licensed schematics.
+
+Open source: See Free/Libre Open Source Software
+
+Open standards: A standard which is available for viewing and implementation by any party, often at no monetary cost.
+
+OpenStreetMap: A permissively licensed world map project developed by a community of contributors.
+
+OpenType: A vector-based font format intended to offer more advanced features than its predecessor, TrueType.
+
+Open web: A concept based around the combination of open standards and open licenses. Follows the ideal that development on the web should follow best practices of accessible and modifiable code and content.
+
+Popcorn.js: An interactive web framework which allows increased interactivity with video content.
+
+Processing: A programming language and development environment predominantly used for visually-oriented or media-rich projects. Available for GNU/Linux, Mac OS X and Microsoft Windows.
+
+Programming language: An artificial language with a restricted syntax, used as an intermediary between computers and human programmers. 
+
+Proprietary: A piece of software or other work which does not make available its source, which is not allowed or intended to be modified or redistributed without permission.
+
+Public domain: The legal status of a creative work for which the copyright (or other rights restriction) has expired. A work in the public domain can be used by anyone, for any purpose, without restriction. Licenses such as the Creative Commons CC0 license emulate public domain.
+
+Pure Data: A visual programming environment designed for the production of interactive multimedia and audio works. Available for GNU/Linux, Max OS X, Microsoft Windows, iOS and Android.
+
+RGBA: A colour space commonly used on digital displays. 
+
+Scalable Vector Graphics (SVG): A standard for vector graphics, developed by the W3C.
+
+Scribus: A desktop publishing application for GNU/Linux, Mac OS X and Windows.
+
+Server: A computer hosting data which is accessed remotely. 
+
+TrueType: A common vector-based font format.
+
+Unicode: A standard used for the encoding of characters. The term is often used to refer to the set of characters defined by the standard.
+
+Version control: A means of managing changes (and allowing reversion) to a commonly held body of work, most often a software project. 
+
+W3C: The organization responsible for setting web standards, such as HTML5 and SVG.

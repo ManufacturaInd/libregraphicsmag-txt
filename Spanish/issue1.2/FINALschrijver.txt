@@ -1,0 +1,35 @@
+Schrijver
+
+The heritage of our pixels
+
+Eric Schrijver
+
+When John Whitney made his pioneering computer art films as an artist in residence for IBM in 1960, the computer screen he used did not use pixels. Rather, it was a single beam which could be instructed to move across the screen, much in the same way that postscript instructions tell a vector to move.(1)
+
+The graphics in Atari’s arcade games, like Battlezone, were also drawn with vector lines on an oscilloscope.(2) In the long run, a matrix of points became the preferred method to describe screen output. And it still is today. In fact, we have a more rigid matrix now that we use LCD displays: they have a "native" resolution determined by the number of pixel elements — whereas the phosphor dots in a color CRT display bear no relation to pixels or subpixels displayed on them.(3)
+
+So, to get your digital resources out on a computer screen, you have to describe them as a matrix of points. That’s easiest when you work with data that itself is a matrix of points. It’s even easier when you map the matrix of points directly in the data to the matrix of the points on the screen.
+
+The easiest solution is not the best, in this case. Try to browse the internet on a 24 inch screen and, by default, it will look rather awkward: singular columns of 960 pixels, with huge swaths of background image on either side. That is because the layouts are specified in CSS pixels and, by default, the browser makes them correspond with "device pixels".(4) Where this used to be a predicament, now it’s just a convention. All modern browsers support zooming in on the content. They're able to make pixel-based layouts smaller or bigger. 
+
+On the mobile phone, the rapport between the pixel of the design and the pixel of the screen has been cut entirely. The webpage is initially displayed fully, and subsequently the user can zoom, continuously, in and out on the design. 
+
+Scalable user interfaces benefit from vector graphics. After all, vector graphics are supposed to shine in the world of scalable.(5) There's even a vector format that was named after this inherent property: Scalable Vector Graphics. But does that mean we can’t use the model of the bitmap in our new designs and interfaces? Not necessarily.
+
+When in doubt, look at your predecessors. Most of our historic design for the computer screen is bitmap-based. I like to look at early pixel-based GUIs for inspiration. There’s a library of icons and user interface elements for the X window system, collected by Anthony Thyssen, available online.(6) Because of the limitations inherent in early systems, many of them are really simple, black and white, 16x16 bitmaps. Through tight constraints, they attain a very evocative kind of abstraction. In this they resemble Susan Kare’s icon designs for the original Macintosh, which are much better executed than current iterations.
+
+These designs don’t deserve to stay locked to the grid of display pixels growing ever tinier. They also don’t have to: you could paint these designs with square meter pixels on your wall, with even that rendering making them look great.
+
+But what better way to reinterpret these designs than to convert them to vectors?
+
+Traditional tracing algorithms do no justice to these designs. Looking for the curves underlying the designs ignores that the pixel grid is constitutive of the design. We are not looking for the platonic ideal. In this case, there's nothing to do but make vector pixels: a vector square for every pixel! It doesn’t even have to be a square. After all, a bitmap is a collection of points, and points have no predefined shapes. It could be circles or any arbitrary shape. You could make the pixels come together in horizontal scanlines, or vertical ones. You could distort the grid on which they are based.
+
+There are many possibilities in the future of rendering and the further we go in exploring them, the closer we come to keeping alive the heritage of our pixels.
+
+
+1) Thanks to Joost Rekveld for his classes, introducing these works amongst others
+2) Form and Code, In Design Art and Architecture: Casey Reas, Chandler McWilliams, LUST; Princeton Architectural Press 2010
+3) http://en.wikipedia.org/wiki/Pixel
+4) http://webkit.org/blog/55/high-dpi-web-sites/
+5) Actually, there are quite some pixel based scaling algorithms too: http://en.wikipedia.org/wiki/Pixel_art_scaling_algorithms
+6) My reissue available at https://github.com/codingisacopingstrategy/AIcons

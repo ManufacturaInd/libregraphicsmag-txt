@@ -1,0 +1,22 @@
+A journey through form fields
+Eric Schrijver
+
+The screen you are confronted with when you log into a WordPress admin and begin a new post is the base of the online writing experience. Little has changed from the very first content management systems, where a single un-styled text field would let you pour in your thoughts and send them off. The only notable difference is that the interface now allows you to style your text and insert links. But this is not "what you see is what you get." There is still little resemblance between the field you fill in here and the finished post that comes out at the other end.
+
+//All together now//
+The traditional web form field is a lonely place. You are typing your information in the browser and only when you hit a submit button is the information sent to the server. This means that if you are editing a resource at the same time as someone else, the person who sends their information last will override the contributions of the predecessor. Content management systems put in place editing locks, allowing only one user to edit at a time. Wikipedia employs a sophisticated merging tool to merge various edits together.
+
+When I started working with OSP and Constant in 2010, I met Etherpad. Etherpad presents you with an online document allowing you to start typing. As you do, you might see others connected to the pad start typing as well. There is no submit button. Everything is saved while you type so that it can be shown to your collaborators at the same time. You are no longer solitary with your text box.
+
+Once you have used Etherpad to write, it becomes difficult to imagine writing collaboratively without it. In a book sprint in Rotterdam, we used Booki, which allows for sophisticated PDF and ebook creation. Yet like many content editing tools it imposes a single-user content lock on each chapter. At the end of the session it turned out everyone had used Etherpad to write their chapters together, before submitting to the Booki platform.
+
+Will we see more Etherpad-style collaboration online? In 2009, Etherpad was bought by Google and released under a permissive license. Parts of it have been re-used in Google Docs and the discontinued Google Wave. The technology behind it has remained notoriously difficult to implement, though. It is hard because it requires an intimate collaboration between the front-end and back-end of a website, a traditional division between the site displaying the data and the system processing and storing it. You need a kind of persistent connection not offered by traditional web servers.
+
+This technology is getting more accessible. JavaScript, the language once used solely for creating scrolling ticker tape effects on web pages, is making its way into the back end, running in browsers and on servers alike. Frameworks like Meteor might make this technology accessible to a large number of developers in the same way that a framework like jQuery has enabled many designers to implement JavaScript effects and interactivity on their sites.
+
+//The future is being written//
+Open source writing tools have been hugely successful. WordPress powers 16% of the web. Wikipedia is the go-to resource for factual knowledge. As the intimate link between Wikipedia and its editing software shows, we can’t talk about the writing technologies of the future without talking about the texts of the future. Writing tools rise in response to, and at the same time give shape to, what is being written.
+ 
+We immediately recognize the tone of Wikipedia even if an article is written by thousands of people. The tool, and the process it entails, stimulate a certain kind of discourse. At the same time, these tools have responded to needs and desires that were there already — the reason they were invented in the first place. Before one invents a writing tool, one might need to ask: "What do I want to write?"
+
+

@@ -1,0 +1,12 @@
+La Langue Schaerbeekoise/De Schaarbeekse Taal
+Constant
+
+La Langue Schaerbeekoise/De Schaarbeekse Taal is a book and an online audio database presenting contemporary local words collected between 2009 and 2012 in the in the plurilingual neighbourhood around De Berenkuil/La Cage aux Ours, officially known as Verboeckhovenplein/Place Verboeckhoven, found in the multilingual municipality of Schaarbeek, in the bilingual Brussels Capital Region. The collection of words shows that amongst the two official languages of the neighbourhood, there is a great grey linguistic zone that relates to experiences, people and stories situated all over the globe.
+
+Arab, Turkish, Berber, Brussels, Swahili and Polish are some of the languages that colour the conversations in French, the language of the common ground. During discussions, meetings, film projections and walks, people offered us their words, with their definitions. These words have been organised in categories that show their effects: the Biographers, the Travel Agents, the Matchmakers, the Reporters, the Time Travelers.
+
+An example is the Lingala word "Eza," a Travel Agent. Eza means "Being, a presence, a presence of possibilities." "It refers to here now or here there; it is her in this room, here in one hour, or a five minutes walk from here; and there is no doubt."
+
+Materials for the La Langue Schaerbeekoise/De Schaarbeekse Taal project were prepared using OpenStreetMap, Scribus, Inkscape, LibreOffice and libgeos.
+
+www.lalangueschaerbeekoise.be & www.deschaarbeeksetaal.be

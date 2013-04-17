@@ -1,0 +1,12 @@
+Type design, around the world
+Dave Crossland
+
+Love letters? Many designers, artists and writers do. But the process of crafting typefaces has been shrouded in mystery. The Crafting Type project started with the motivation of changing this, by holding workshops which push participants through the entire type design process: from the secrets of sketching to digital drawing techniques to OpenType features, using only Free/Libre software -- mainly FontForge, plus some Inkscape and Scribus.
+
+A number of professional type designers including myself, Alexei Vanyashin, Eben Sorkin, Octavio Pardo and Vernon Adams, have been running Crafting Type workshops in venues around the world. The workshops are held at design schools with attendance from both students and local professionals. Despite the variety of backgrounds in design, since all participants are beginners in type design, the mix of students and professionals adds a real buzz to the room.
+
+In addition to teaching the workflow, each participant leaves the workshop with a functional OpenType font with key glyphs, and the knowledge about how to take the design all the way to a complete and useful typeface design.
+
+The first workshop was held in Edmonton, Canada, in August 2012, as a 5 day boot camp for students and professional graphic designers. Kyle Fox and Jeff Archibald, a pair of Edmontonian designers, knew I was in town and proposed we run a workshop. Two months later they had organized one for 40 people. In the fall, Alexei Vanyashin set up a series of workshops in Ukraine, where there is also a lack of type design education available to local designers. We're hoping to do more, bringing type design know-how to designers everywhere.
+ 
+[[craftingtype.com]]

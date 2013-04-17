@@ -1,0 +1,8 @@
+Newstweek
+by Julian Oliver and Danja Vasiliev
+
+In a world where hackers are portrayed going through opaque and complicated processes to sow chaos, Julian Oliver and Danja Vasiliev are happy to turn that picture around, proposing a simple and apparently harmless device that hijacks the general perception of current news events. This is thanks to the bottlenecking of current media distribution, which is now based on a select group of outlets, a strange symptom of modernity that the authors wish to highlight.
+
+Through a serendipitous set of hacks and détournements of off-the-shelf wireless technology, the finished incarnation of Newstweek -- a simple pluggable device, no more menacing than an electric air-freshener -- won’t give out clues as to its real role as a man-in-the-middle filtering the news you read.
+
+A thorough and clear guide is provided by the authors at http://newstweek.com/howto, with full instructions on how to build your own news-bending device, peppered with hints and clues on how to better understand wireless sniffing and networking in general.

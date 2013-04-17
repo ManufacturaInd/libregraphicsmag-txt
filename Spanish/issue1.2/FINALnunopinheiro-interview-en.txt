@@ -1,0 +1,87 @@
+﻿Interview with Nuno Pinheiro -- Oxygen project coordinator
+
+[PULLQUOTE] "Code can be elegant, user experience can be elegant."
+
+[PULLQUOTE2] "A good designer should incorporate the engineer and the artist, but most of the time the artist wins."
+
+
+MI: Tell us about Oxygen. What is it? How is it related to the KDE project?
+
+NP: Well, Oxygen is considered one of the foundations of KDE. It's a design platform.
+
+Initially, it was created by three people -- I wasn't one of them -- at this get-together called Appeal Meeting, which took place right after the KDE 3.4 release. Many important KDE people were present in order to discuss and decide where to go from there. KDE had reached a fairly mature state and it was appropriate to find out which next steps to take.
+
+Two people involved in the meeting were Kenneth Wimer and David Vignoni. David is the author of the Nuvola theme which was, back then, one of the most popular alternative themes for KDE. Actually, it was the most used theme. At this meeting, we decided to begin work on a new icon theme, which was to be called Oxygen.
+
+Besides Ken and David, they invited me to join the effort of building a completely new icon theme. We had the sponsorship of Novell, which was a nice and cool company back in the day. That's the story behind the creation of Oxygen, which was set to become the icon theme for the fourth version of KDE. We started work on the icons. Novell ended up changing their minds and left the project. We carried on nevertheless.
+
+As we progressed on Oxygen, it became clear that icons were a single aspect of the user desktop experience. The desktop has many things, and it became clear that the user interface (UI) toolkit [or window decorations] was a significant part of the experience. KDE used Qt, which had its own window decorations. We thought it was appropriate to do our own UI theme. So I started work on that as a sub-project of Oxygen, drawing many mock-ups using Inkscape. I made a full mock-up of the theme, without any code underneath. Then, I approached some developers and they ended up supporting my work. We worked together and did some iterations until we got to the current version.
+
+Now, if you can make an icon theme and a UI theme, you can also make a window theme. So we did that next. If you can make a window theme, you can also make a sound theme. So I talked to Nuno Póvoa, who made it. If you can make a sound theme, you can also make a mouse pointer theme. If you make a mouse pointer theme, you can also make wallpapers. If you can make wallpapers, you can make websites. This way, Oxygen ended up becoming a design platform. Everything in KDE that is design-related is taken care of inside Oxygen [except type].
+
+In the meantime, while making Oxygen, we decided on using an icon naming spec, adopting the freedesktop standard. Thanks to this icon naming scheme, you can get a KDE icon theme and use it within GNOME, and vice-versa. This means that Oxygen, though closely connected to the KDE project, can be used in many other contexts -- in fact, we encourage that other projects use Oxygen. The license is free and the process is open. I get really happy when Oxygen is used in other projects, other places and for other purposes.
+
+MI: Going from this idea of Oxygen being the design hub for KDE, there's a question we're interested in: what's the decision-making process for aesthetic criteria? In the end, how does it come together? Is it a top-down process, or can anyone propose new directions? Is there any other kind of control?
+
+NP: It's bidirectional. Actually, I coordinate the project, and I'm the guy who says "Okay, we're going that way" or "We're not going that way." I've got the role of drawing the line when it comes to final design choices.
+
+However, Oxygen is not a young project. There's quite some years behind it. It's sported some different visual tendencies through time, graphically and formally. Every two KDE versions, we try to slightly change the general concept and message of the theme. This message is not defined by us, but rather by the KDE community. For instance, the message we're working on for KDE 4.6 and 4.7 is about elegance, in its broadest definition. Code can be elegant, user experience can be elegant. So, we took this message and tried to convey it through the theme design, aiming for an elegant experience: elegant wallpapers, elegant sound pieces, and so on. This is the centerpiece of the experience we want to pass on to the user -- a global message that Oxygen helps get across.
+
+And this is the most complicated part inside a design project: achieving consistency when we have several people with very different styles and ideas contributing to the same project. From there, it's the challenge of creating a bundle that is smooth and continuous, has an even pace, and speaks the same language. Managing all of this is my task: talking to people and trying to have their work flow into something that's consistent and dynamic, something that goes along with the rest and, at the same time, addresses the core message.
+
+--
+MI: Regarding your tools of choice, we know you use Inkscape...
+
+NP: I do use Inkscape. I also work with Blender, Gimp, Krita, scanner, pencil, pen and my imagination.
+
+MI: Have these been your tools all along?
+
+NP: When I started, my first tool was Sodipodi, the predecessor of Inkscape. Inkscape is definitely my main design tool.
+
+MI: Have you ever approached the Inkscape developers to ask for a specific feature?
+
+NP: To be honest, I'm not close to the Inkscape guys. On the other hand, I do frequent exchanges with the Scribus people. We get along rather well. I'm almost done with their icons! Scribus requires a lot of icons, around three hundred.
+
+MI: How many icons are there in Oxygen?
+
+NP: Two thousand and something. It's the largest part of KDE in terms of file size -- two hundred or so megabytes. As far as I know, it's the world's most complete icon theme. I'm not aware of any other theme with such an amount of icons. Tango had almost as much, but we're bigger. To give you a point of comparison, Apple only has around eighty base icons, and then each application brings their own set.
+
+--
+
+MI: Are there any style guidelines that you set out before starting work on a new theme? Setting a formal style direction is a mainstay of traditional graphic design, usually through corporate identity manuals or interface guides. Our question is, do you follow this tendency, or is the Oxygen style defined through a less formal, more organic way?
+
+NP: It is organic. To be blunt, I don't believe in those things. I've read several identity and interface guideline manuals, particularly icon style guides. I could get the style guidelines for Windows Vista and create Mac icons following them, and vice versa. This while strictly following their rules.
+
+MI: And you could end up with something consistent.
+
+NP: I could! Any designer worth his name can do that. It's very easy for a designer to follow every single rule, and still end up with something that doesn't fit. There's some intangible aspects, a kind of feeling, which you can't turn into logical rules and crystalise on guidelines. Having 42 bullet points that you have to go through in order to achieve X is not something that works in this case. I've heard many dissenting opinions, but I seriously don't agree with this way of doing things. It's my personal opinion.
+
+Oxygen could have better documentation, but it's more about having good designers. Every time I have a designer asking for the rules, I tell them to look at the icons. If, after analyzing the icons from any theme, you still have doubts about their graphical and aesthetic rules, you probably shouldn't be working on this. Honestly, it's a language. If it's well written, one should be able to clearly interpret and identify the meaning just by reading it. Something along the lines of "Oh, they're using references to this and that. And I think I get where they're trying to go here." If you need a manual for a language in order to be able to write it, then something failed during the process, I'd say.
+
+MI: Now, we might be basing this on a historical inaccuracy here, but we're led to believe that KDE pioneered the glossy interface look, with polished looks, clean lines and shiny surfaces. The same approach that has now been made popular by Apple on its recent user interfaces.
+
+NP: Yes -- this great designer, Everaldo Coelho, is to blame for the glossy style. He worked on this theme, Crystal, which is very well known and heavily used on a number of web sites worldwide. It was one of the first Free themes made by a designer, with a rather high quality standard considering the tools available at the time. He's now working for Apple.
+
+The Crystal theme was of very high quality, indeed. But it's the result of what Everaldo is as a designer, a specific kind of stubborn designer with a distinct style. It is glossy, playful, colorful, fun. Its visual style eventually became associated with KDE.
+
+MI: What we were trying to get at with the previous question was, does the Oxygen team see themselves as trendsetters? Do you think that you're creating a norm, a set of unwritten rules of taste that would motivate others?
+
+NP: Honestly, with Oxygen I'm aiming to influence my community to get better. I think that there are many more interesting things out there than Oxygen, and I'm not just talking about the desktop. I think that there's incredibly interesting stuff made for the web -- which by the way, I don't approve of as a platform, we're sacrificing our future freedom by moving everything to the cloud -- but design-wise, there's very exciting things being done for the web today. I try to translate some of those new principles to the desktop, and in doing so try to influence design perception inside the community.
+
+Design is learned, an acquired taste. Just like enjoying wine, or cooking in general. You might go your whole life loving potato chips and steak; one day, you try fish, and the next day you come back. Maybe you'll go on to like fish. Then you try a good wine, and you gradually become able to appreciate wine. I try to influence the community to become aware of these little things.
+
+MI: Icons are pieces created with the purpose of being used and re-used in different contexts. In the case of Oxygen this becomes more evident because of the Free licensing you employ. Have you ever been surprised by a particular use of the Oxygen icons?
+
+NP: Oh, many surprises. "A Bola" [a top-selling daily Portuguese sports newspaper] used my icons. Any mention to the license or even attribution is nowhere to be seen. I've stopped worrying about licensing issues.
+
+The license we use is the LGPL. It's the perfect license for icons. We could have used Creative Commons, but the most permissive CC license is very similar to LGPL. With it, you only have to make sure proper attribution is made; other than that, the icons belong to whoever wants to use them.
+
+MI: In corporate settings, one can usually find a schism between designers and developers or engineers. In Oxygen's case, does this kind of tension occur?
+
+NP: Such tensions are nowhere to be found. I'm actually lucky -- I'm an engineer. I studied engineering. And I find this is one of the reasons why Oxygen solved many of the issues that can plague other open source projects. I can speak both languages.
+
+I come from a specific background: I'm a civil engineer. Civil engineering implies a crossover between architecture and engineering. My sister is an architect, so I know the battlefield well when it comes to the problems of both theorizing and implementing. The person who theorizes -- often the designer -- should be comfortable with implementation details, but very often that's not the case. A good designer should incorporate the engineer and the artist, but most of the time the artist wins. I keep trying to make sure I'm in touch with both perspectives.
+
+There was a particular issue in Oxygen regarding the styling of window shadows. Only someone well aware of design and implementation issues could tackle the problem of how to properly anti-alias window corners and make it look good. I knew the implementation pitfalls, knew how the tech worked, went to the developers and presented a different solution that could elegantly solve the problem. It is very important for the designer to be aware of the technical limitations. However, it's very important for the designer to not be aware of the technical limitations.
+
+That's why coordination is important. I like having designers in the Oxygen project who work with absolute freedom, pure artists. The kind of people who come to me with completely nonsensical ideas and make me say "You're an idiot, this is impossible." But it's very important that they keep pushing me in that direction so that I can go "This is impossible but hey, maybe we can do half of it." Then I go to the developer and he'll say "This is impossible because of this, this and that," and I can suggest "But this and this could be done in this particular way," to which he'll reply "Maybe we can do half of it." This way, things progress according to the artist's vision and the developer's understanding.

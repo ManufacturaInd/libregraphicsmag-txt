@@ -1,0 +1,39 @@
+Éste es el primer día de mi vida
+por Eric Schijver
+
+cita: “Todas las cosas increibles tienen su proceso de gestación. Sin embargo, tendemos a creer en la creación espontánea.”
+“Nunca he oído hablar de lo terrible que puede llegar a ser compartir. Supone perder el control.”
+
+Edgar Dijkstra, científico informático, creía en las primeras veces. Pensó que dar a los programas números de versión, se trataba de una farsa contemporánea. Desde que es posible corregir un programa, mejor tenerlo listo a la primera intentona. No estoy de acuerdo con Edgar Dijkstra. Creo que conseguiré mi primera columna en condiciones al quinto o sexto intento.
+
+Existe un segundo primer intento, cuando finalmente logras elevarte sobre las percepciones e ideas con las que comenzaste el proyecto. Es entonces cuando el proyecto empieza a trabajar por ti.
+
+El rumor de que Bill Joy redactara el editor vi en una noche aún periste, a pesar de que él mismo lo desmiente. Todas las cosas increibles tienen su proceso de gestación. Sin embargo, tendemos a creer en la creación espontánea.
+
+Igual que para Libre Graphics, está en el nexo de muchos desarrollos excitantes. Libre Graphics reside en la intersección entre arte y tecnología, ciencia y humanidades. Y estoy muy seguro de que veremos cómo despegan números de proyectos geniales.
+
+Aplicar los principios del F/LOSS al arte y al disen/o nos ayuda a mejorar la (visual literacy )literatura visual, del mismo modo que el F/LOSS mejora la literatura de las computadoras. Aplicar los principios del F/LOSS al arte y al diseno nos ayuda a entender mejor el conocmiento presente en el proceso creativo.
+
+Además, creo que nos acerca al mejor entendimiento de lo que realmente significa compartir. Conseguir que los artistas compartan puede ser dificil, en un principio. Los científicos han construido una economía en la que dar incrementa su reputación, además de conseguir oportunidades de conseguir y mantener sus empleos. Los artistas, sin embargo, tradicionalmente tratan de ganar dinero vendiendo su obra.
+
+A pesar de que los métodos de producción artística hayan cambiado radicalmente, el mercado del arte sigue siendo SCARCITY. Las galerías producen un número limitado de copias de un vídeo o de una fotografía a pesar de que es un medio que permite un número ilimitado de copias y de distribuición.
+
+Con todo lo que da de sí el hecho de compartir en el mundo del F/LOSS,  nunca he oído hablar de lo terrible que puede llegar a ser compartir. Supone perder el control. Y dejarse llevar puede ser muy dificil.
+
+Sin duda, es también potencialmente bello. Reconocer que mi capacidad de comprensión es limitada, permitiendo que otro alguien encuentre algo en mi trabajo que yo nunca había visto antes, puede ser hermoso y muy gratificante. Alguien que llega con una nueva e ingeniosa solución a un algoritmo y alguien reinerpretando mi trabajo artístico, no son la misma cosa. Mi arte trata con personas y emociones. Es por eso que basta una reinterpretación para que me haga dan/o.
+
+(Siempre existe la posibilidad de guardarme cosas para mi. Asumir las vigentes leyes de copyright, good health and some cooperation from my progeny, it will subsequently take about 130 years before it lapses into the public domain.)
+
+Pero bueno.
+
+Siempre que algo hermoso despega, sientes el comienzo. “El comienzo” no como algo literal. Es más parecido a la experiencia que se abre a nuevas posiblidades. Del mismo modo,it seems to make up for the hardship experienced up to this point.
+
+Madonna también toma el concepto de principio como una metáfora. Hace referencia al prototipo de principio en “Like a Virgin”. No es la primera vez, es cómo la primera vez. Los desarrolladores del Open source trabajan como Madonna. (Projects are well underway before they reach 1.00 )Los proyectos... Esta no es la primera versión, esta es la primera versión que funciona como el desarrollador que buscábamos en un inicio. Lo que debería haber sido en su primer intento, pero que no fue posible.
+
+De hecho, muchos proyectos nunca llegan al 1.00. La mayoría de las cosas nunca llegan a suceder. Cuando David Bowie sacudió el escenario con su Ziggy Stardust, ya había he'd already had a trial run with a band called Arnold Corns, for which he styled a fashion designer to be the lead singer. 
+
+(Release early release often is a Torvalds maxim.) En F/LOSS, al igual que los proyectos que despegan, vemos los que no llegan a hacerlo, toda la sopa al completo. No sólo nos quedamos con Ziggy Stardust, también lo hacemos con Arnold Corns.
+
+Francamente, en un caos. Puede que no funcione para el Dijkastras de este mundo. F/LOSS anima a mezclar  disparate sources en aras de conseguir algo nuevo. Es por esto que los artistas deberían sentirse como en casa. Nunca hay un clean slate cuando trabajas en una obra de arte o de disen/o. Estamos influenciados por todos lo trabajos que conocemos. Bowie, en Ziggy, dijo “en aquél momento me pareció muy natural mezclar todas estas rarezas de arte y cultura que realmente admiro.” No importa que todo venga de alguna parte, cuando lo mezclas, lo sientes como algo nuevo. Es como si acabaras de empezar.
+
+

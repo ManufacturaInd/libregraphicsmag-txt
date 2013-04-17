@@ -1,0 +1,6 @@
+3 Bridges
+Nikki Pugh
+
+//3 Bridges// comprises GPS data collected whilst walking across the Manhattan, Williamsburg and Brooklyn Bridges between Manhattan and Brooklyn, New York. The different signatures reflect different methods of bridge construction and the location of the pedestrian walkways within them. Collected data were visualised using Processing and Inkscape.
+
+Nikki Pugh is a British artist working at the intersection of people, place, playfulness and technology. Her practice encompasses locative and digital media, walking, performative actions in public spaces (in turn including pervasive games), installation, physical computing and collaboration. Her work is currently being guided by the (evolving) Splacist manifesto (http://npugh.co.uk/blog/splacist_manifesto_v2). 

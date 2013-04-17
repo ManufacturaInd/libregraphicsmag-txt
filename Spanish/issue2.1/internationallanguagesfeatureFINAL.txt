@@ -1,0 +1,12 @@
+[[Picture feature]]
+print("Speaking across borders")
+ginger coons 
+
+In the late nineteenth century, Volapük gained traction. A constructed language, Volapük was meant to be international. For a time, it was, with speakers, publications and interest groups in a number of European and American cities. After not too long, it faded, replaced by other constructed languages like Esperanto and Interlingua. These languages -- rising and falling over the years, gaining and losing speakers, occasionally evolving or fizzling out -- reflect a desire to speak freely across borders and to bridge existing communication gaps. 
+
+The constructed languages of the nineteenth and twentieth centuries, from Volapük to Interlingua, were similar in their use of the Latin alphabet and their nearness to existing European languages. Those are traits we see today in a comparatively new way of communicating across borders -- in Python, in C, in Java, each one a popular programming language. Even in simple markup languages like HTML, used in all the world's websites, some linguistic bias is built in. 
+
+Despite desires by the drafters of international languages to put all speakers on an equal footing, little things seep in. The borrowing of words and grammar from already-dominant European languages make constructed languages like Interlingua and Esperanto easier to learn for speakers of the source languages. Fundamental words such as "if," then," "while" and "print," common to swathes of programming languages, are hangers-on from English.
+
+The programming and markup languages we use now, though less explicitly intended to promote international cooperation than the constructed languages of the previous century, carry out many of the tasks intended by those early international languages. And they come with the same artefacts: speakers the world over, conferences, books and newsletters, forums for discussion. Though intended to fill a different functional purpose, to ease communication between human and machine instead of between human and human, they offer a compelling side-effect for those who know them: a common second language.
+

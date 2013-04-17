@@ -1,0 +1,26 @@
+New releases
+
+Krita 2.5
+The KDE-native painting and sketching application has undergone some useful changes in version 2.5. With themes designed by David Revoy, improved smearing capabilities, new shortcuts and better interoperability with GIMP and MyPaint, Krita is bringing its user experience to a higher level. 
+http://krita.org
+
+New version of Linux Libertine
+One of our favourite font families, Linux Libertine has reached version 5.3.0. This release includes a brand new monospaced face as well as improvements to existing bold faces.
+http://www.linuxlibertine.org/
+
+New F/LOSS Manuals book: //Créer un epub// 
+For French readers interested in the merits and requirements of the EPUB format, F/LOSS Manuals has created an indispensable guide. This book is a welcome addition to the growing collection of non-English F/LOSS Manuals titles.
+http://fr.flossmanuals.net/creer-un-epub/
+
+New Blender movie: //Tears of Steel//
+The hotly anticipated live action open movie project showcases Blender's capabilities as a special effects platform. As with previous projects from the Blender Foundation, the source files for //Tears of Steel// are released under a Creative Commons licence.
+http://mango.blender.org/download/
+
+First issue of //GIMP Magazine// 
+Released in August 2012, //GIMP Magazine// is an online publication focused on practical aspects of GIMP usage and mastery. It offers tutorials, how-tos and review articles.
+http://gimpmagazine.org
+
+Pinta 1.4
+A simple painting and editing tool, Pinta has undergone a collection of major updates prior to its latest release. Pinta 1.4 includes improved text support and expanded capabilities for its colour selection and magic wand tools.
+http://pinta-project.com/
+

@@ -1,0 +1,65 @@
+Hacking clothing: An interview with Susan Spencer
+Natalie Maciw
+
+[[Subhed]]
+Tau Meta Tau Physica offers a hyper-localization of clothing. The program helps patternmakers generatively make clothes for individuals, based on individual specifications. Natalie Maciw interviews its creator, Susan Spencer.
+[[/Subhed]]
+
+NM: How would Tau Meta Tau Physica work for its users?
+
+SS: The TauMeta program is still under development, it is not a finished tool. The user interface will allow patternmakers to select from libraries of patterns, create new, or modify existing patterns, and generate these patterns with a selected client's body measurements or other specifications. There are new tools being developed that focus on 3D methods, but I believe that this sacrifices control of the pattern. 3D methods are best used to initially develop an idea, and at the end of the process check the results of a pattern and present the final pattern in spectacular ways, but letting the software determine details during actual pattern development means that the designer or patternmaker is giving up control and the results may not be what was desired. TauMeta will utilize the best aspects of 2D and 3D methods to develop patterns.
+
+NM: What were your reasons for initiating the Tau Meta Tau Physica project?
+
+SS: There are several excellent patternmaking software packages available, but the ones I could afford did not appear to allow the user to go deep enough into patternmaking to meet my creative needs. There isn't any existing open source patternmaking software that I'm aware of, so I began to create my own. I decided to rethink how patterns were generated so that I could have complete control of the output. I wanted to create patterns in an open data format to enable the patterns to be usable by anyone. Craftsmen, artists and manufacturers should be able to interact without needing to match up the software packages they use. 
+
+I am a proponent of the open source and open data movements for programming, government, fashion and just about everything. In our technology-driven world, we need access to tools which are modifiable and customizable to leverage our talents in performing our work and creating our art. If all tools are produced, designed and patented by a few large corporations, and user customization is prohibited, then specific needs of the market may get overlooked. The marketplace of goods and services produced by those tools may become unrepresentative of the products which could be produced by the talents of the design community.
+
+Regarding the fashion industry, it makes sense to have open source tools to design and create fashion-based products. The velocity of the evolution of fashion product is based upon the re-use of existing ideas, especially ideas taken from the street. Creative tools should allow a designer, patternmaker or artist to express their ideas, customize their product, store their work, and allow collaboration and communication on their terms. If the creative person's tools are defined by the needs of entities that are not similar to them, then the tool doesn't serve that person well. Open source software typically invites participation by the users and encourages the development of communities to define new requirements for the software. The users become the producers of the tools. Through this process the behavior and voice of open source communities can indicate the direction and determine the future of the industry that the software serves. Participation in an open source community lends authority to the individual and provides a channel to influence the marketplace. Fashion is a culture where the contribution of the individual is valued. Tools and communities that contribute to this culture increase the relevance of fashion and the vitality of the industry. It makes sense to have flexible and accessible open source tools for the fashion industry.
+ 
+
+NM: Is the program primarily intended to be a business or facilitate businesses, or is it designed for hobbyists?
+
+SS: The TauMeta software is intended to be free as in “free access to modify the code” and free as in “free beer.” It is intended to give patternmakers complete and accurate control of every aspect of the pattern. This granularity should enable working with extremely creative forms and also provide easy generation of patterns with excellent fit regardless of whether the pattern is unusual or conventional. The focus is to assist patternmakers with artistic creations.
+
+Currently the patterns are home-sewist type patterns with seam allowances and grainlines. But there will be a set of options to choose which type of pattern to generate. Hobbyists will hopefully be an important user base. Someone who doesn't make patterns professionally should be able to understand it and use its full range of functions. It would be nice if TauMeta could be modified to be used by other communities outside of the fashion industry. Perhaps woodworking or sheet metal work. I've played with generating a pattern for the Trajan font's letter A as described in David Lance Goines' book A Constructed Roman Alphabet,(www.goines.net/acra_book/acra_content/files/index.html).
+ 
+
+NM: Do you think it is important to introduce open source tools to the fashion industry? Could such tools create change in the industry? Who stands to benefit? Does anyone stand to lose out? 
+
+SS: Tools define the workflow in any industry. And they can greatly affect profits. Proprietary patternmaking tools have been around for a long time and reflect common needs of the commercial garment industry. The business model, workflow and assumptions built into proprietary software may not be appropriate for all businesses or applications.
+
+The garment industry is huge. The beneficiaries of using open source tools in the fashion industry will primarily be the independent designer or patternmaker, the small or regional businesses, the businesses for which proprietary software has been a bad or marginal fit.
+
+Here are a few examples of how open source tools could benefit the fashion industry: Design tools can be written for improved collaboration between design teams, and further modified to meet the needs of specific projects between teams, schools, print or web magazines, etc. They could be written to easily input fabric characteristics, colour, and other building blocks of fashion, so that what someone sees on the street today they could add to their library of design bits and pieces tonight. The tools could be written to assist in determining where the strengths of a design or manufacturing team lies, and to help restructure to take advantage of these strengths. The point is that these tools should be created for designers or patternmakers to develop products their own way. The essence of open source software is that it can be customized and modified for the needs of the users. The open source community allows everyone to share their findings and developments, and get ideas from others. 
+
+I don't see anyone losing as a result of introducing open source tools into the fashion industry. The current proprietary software manufacturers will always be around. I don't see open source fashion tools displacing the big players, I see them enabling new players into the marketplace and creating new communities that will put new ideas into the fashion world.
+
+ 
+NM: Pattern cutting seems to suit open source in the sense that it can be made digital – do you see any way of implementing open source principals into the more physical aspects of the fashion industry? How?
+
+SS: Open source software is hackable by definition. Hacking into it to create your own tools and make adjustments helps you do what you do best, leverages your talents, lets you develop your own workflow. Fashion creativity, which includes unique fit and ease, could be extended past the design, patternmaking and sample phases into the manufacturing and distribution phase. Once you embrace doing things for yourself, and understand how something works on your own terms, and then change it to fit your needs, you own the process and that field of endeavor. It's an empowering feeling, and it can make you see the world with different eyes. After that, you may want to change your entire approach to fashion. Anything could change. 
+
+There are physical and cultural characteristics of every societal group around the world. Having access to the most detailed level of pattern design enables changes to be made to patterns to accommodate these characteristics. 
+
+These differences can also affect workflow and manufacturing processes. If software works only one way, then it can't be adjusted to take advantage of the characteristics of the people who use it or are served by it. Open source software is customizable so that individual or group characteristics and local competencies can be reflected in the business. If a local community is known for specific fabrics or sewing techniques then these should be explicitly incorporated into the design tools.
+
+
+NM: Is open source a growing trend in the fashion industry, or is your project a one-off?
+
+SS: Open source has always been a silent partner in the fashion industry. There are some who work towards copyright restriction, but I must respectfully disagree with this approach. I believe that protection for a product is actually a restriction on the industry. For example, Diane von Furstenburg combined the previously existing wrap-around dress and the simplified dress silhouette of the late 1960s and early 1970s with the amazing new knit textiles of the mid 1970s to achieve her gloriously fashion-breaking wrap dress. She did not develop this dress in a bubble, nor did she have to deal with another designer owning the copyright for wrap-around dresses, or for usage of a particular color or pattern in combination with the dress, or for a particular slope on the neckline, nor for having a particular sleeve and cuff and collar, nor for hemming and lining and seam finishing techniques, nor for any other design feature that existed in other garments before they existed in her dress. She had open source access to the design elements which her artistic talent combined into a fashion hit and personal global career success. There is nothing in her garment that did not previously exist in other garments. Yet, the world knows the name Diane von Furstenberg. This is the lesson of open source in the fashion industry. Fashion is a constant recycling of existing design elements combined with traditional and emergent textiles to generate fresh new product and art. 
+
+In the United States, a copyright is automatically applied to garment patterns without the patternmaker having to apply for the copyright. The copyright does not extend to the design or design elements the pattern was based upon. Automatic copyrights on patterns don't appear to have affected the fashion industry very much!
+
+The TauMeta project in the fashion industry is a reflection of the need for open source tools in every industry. As our dependence on technology grows, so does our need to own our own tools. As I see it, the TauMeta project is part of the greater trend and is not a stand-alone development.
+
+
+NM: What effect do you hope the software will have on the fashion industry once it is complete? 
+
+SS: I hope that it enables the entry of new fashion designers into the industry, that it encourages fashion designers to enjoy patternmaking and patternmakers to enjoy designing fashion. I hope it helps local and regional fashion designers and garment manufacturing businesses to bloom as a result of designing to reflect regional identities. I hope it helps to provide garments to previously ignored or under-served markets and to help remove a source of depression for people who are frustrated by the garment choices available to them and who have a negative relationship with clothing and fashion.
+
+On this point, I must express the opinion that most people don't wear fashion. They wear clothing. Many dislike the clothing they wear because it doesn't fit and it looks awful. They may even reject the fashion industry as being useless and self-serving and pointless. Yet everyone on the planet wears clothing! 
+
+I hope the TauMeta project can help in its small way to improve access to clothes that fit, clothes that don't engender self-loathing and that go the extra distance to assist in building a healthy outlook and lifestyle. The average person deserves to have a better relationship with what they put on their body every day. There may be some who say that what we wear is not that important. I would say to these people that our clothing shouldn't be the most important aspect of our lives and our societies, but neither should it be the most consistently humiliating. Access to hackable design patterns which can be generated with custom measurements could help make a necessary change in our culture.
+
+[[www.taumeta.org]]

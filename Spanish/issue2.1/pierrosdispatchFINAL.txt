@@ -1,0 +1,18 @@
+Styling maps like the web, for the web
+
+Pierros Papadeas
+
+Providing up-to-date, beautiful geographic information has always been the challenge of cartography. Using proven web technology practices to build on top of editable open data from sources like OpenStreetMap is one way of rising to the challenge.
+
+TileMill is a F/LOSS tool which allows cartographers to quickly and easily design maps for the web using custom data. Its editing and styling paradigm originates in web design principles. Each layer has an ID and a Class that can be selected to style through Carto .mss files, a style format specific to maps.
+
+Deep down in TileMill we find Mapnik, a powerful, full-featured library supporting RGBA color, TrueType fonts, rasters, patterns, and even SVG transforms. The integration of web-friendly features like these is a boon to developers and designers. Using known technologies to create maps --which are in turn web-friendly-- is a clever technique that has already produced a collection of beautiful maps.
+
+//Process//
+The process of designing a map in TileMill can be described in three steps. The first is sourcing data. OpenStreetMap (http://www.openstreetmap.org) is a great open data map source with a variety of different export sets (like http://downloads.cloudmade.com).
+
+After import, each layer or data set can be assigned an ID (#) or Class. All classed or IDed layers and data sets can be styled, either with regular CSS or using TileMill's pre-set custom properties.
+
+Finally, share the results. TileMill offers static image export, export of MBTiles, served as interactive, embeddable maps through MapBox (http://mapbox.com) or through your own server (https://github.com/mapbox/tilestream). 
+
+Happy mapping!
